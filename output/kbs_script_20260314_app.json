@@ -1,0 +1,491 @@
+{
+  "date": "20260314",
+  "episode": "밤의 여행자들",
+  "replayDuration": 1519,
+  "scaleFactor": 0.7626,
+  "totalSongDuration": 5238,
+  "expectedTalkDuration": 1992,
+  "insertionPoints": [
+    75.5,
+    214.4,
+    617.1,
+    708.7,
+    1042.6,
+    1169.0,
+    1282.4,
+    1381.6,
+    1506.3
+  ],
+  "sentenceEndPoints": [
+    17.03,
+    30.9,
+    63.44,
+    71.51,
+    75.55,
+    123.76,
+    248.24,
+    252.66,
+    260.29,
+    265.48,
+    277.76,
+    461.53,
+    486.36,
+    491.2,
+    500.22,
+    583.39,
+    632.82,
+    640.12,
+    643.9,
+    649.86,
+    718.85,
+    733.6,
+    737.52,
+    817.15,
+    824.31,
+    830.43,
+    842.37,
+    849.62,
+    854.21,
+    860.75,
+    876.32,
+    880.19,
+    913.48,
+    964.14,
+    1028.04,
+    1111.98,
+    1114.29,
+    1118.83,
+    1128.02,
+    1142.78,
+    1146.74,
+    1201.0,
+    1207.6,
+    1225.32,
+    1287.98,
+    1344.7,
+    1353.78,
+    1357.53,
+    1441.2,
+    1447.01,
+    1470.78,
+    1500.78
+  ],
+  "songs": [
+    {
+      "songTitle": "BACK TO THE REAL LIFE",
+      "artist": "윤상",
+      "musicId": "0000090005d2800a7638",
+      "timestamp": "20260314221010",
+      "broadcastOffset": 610,
+      "songDuration": 213,
+      "talkTimeOffset": 465.2,
+      "refinedOffset": 465.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 610,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 214.4,
+          "matchType": "artist+title",
+          "matchedTerm": "윤상+BACK TO THE REAL LIFE"
+        }
+      ]
+    },
+    {
+      "songTitle": "애수",
+      "artist": "CLAZZIQUAI",
+      "musicId": "20061108140631637023",
+      "timestamp": "20260314221309",
+      "broadcastOffset": 789,
+      "songDuration": 218,
+      "talkTimeOffset": 465.7,
+      "refinedOffset": 467.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 576,
+      "cumulativeSongDuration": 213,
+      "scriptMentions": [
+        {
+          "timestamp": 210.5,
+          "matchType": "artist+title",
+          "matchedTerm": "클래지콰이+애수"
+        }
+      ]
+    },
+    {
+      "songTitle": "습관",
+      "artist": "롤러코스터",
+      "musicId": "0000090005d2800af322",
+      "timestamp": "20260314222013",
+      "broadcastOffset": 1213,
+      "songDuration": 253,
+      "talkTimeOffset": 596.3,
+      "refinedOffset": 596.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 782,
+      "cumulativeSongDuration": 431,
+      "scriptMentions": [
+        {
+          "timestamp": 384.1,
+          "matchType": "artist+title",
+          "matchedTerm": "롤러코스터+습관"
+        }
+      ]
+    },
+    {
+      "songTitle": "7년간의 사랑",
+      "artist": "규현",
+      "musicId": "20090728163852722919",
+      "timestamp": "20260314222401",
+      "broadcastOffset": 1441,
+      "songDuration": 316,
+      "talkTimeOffset": 596.8,
+      "refinedOffset": 598.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 757,
+      "cumulativeSongDuration": 684,
+      "scriptMentions": [
+        {
+          "timestamp": 384.1,
+          "matchType": "artist+title",
+          "matchedTerm": "규현+7년간의 사랑"
+        }
+      ]
+    },
+    {
+      "songTitle": "출발",
+      "artist": "김동률",
+      "musicId": "20080204112718194664",
+      "timestamp": "20260314223306",
+      "broadcastOffset": 1986,
+      "songDuration": 233,
+      "talkTimeOffset": 751.9,
+      "refinedOffset": 617.1,
+      "refinementDelta": 134.7,
+      "matchMethod": "name",
+      "talkTimeBefore": 986,
+      "cumulativeSongDuration": 1000,
+      "scriptMentions": [
+        {
+          "timestamp": 617.1,
+          "matchType": "artist+title",
+          "matchedTerm": "김동률+출발"
+        }
+      ]
+    },
+    {
+      "songTitle": "꿈의 대화",
+      "artist": "장혜진",
+      "musicId": "0000090005d28008a322",
+      "timestamp": "20260314223848",
+      "broadcastOffset": 2328,
+      "songDuration": 276,
+      "talkTimeOffset": 835.0,
+      "refinedOffset": 708.7,
+      "refinementDelta": 126.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1095,
+      "cumulativeSongDuration": 1233,
+      "scriptMentions": [
+        {
+          "timestamp": 705.2,
+          "matchType": "artist+title",
+          "matchedTerm": "장혜진+꿈의 대화"
+        },
+        {
+          "timestamp": 714.8,
+          "matchType": "title",
+          "matchedTerm": "꿈의 대화"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑은 아프다",
+      "artist": "이승철",
+      "musicId": "20180406143148649340",
+      "timestamp": "20260314224248",
+      "broadcastOffset": 2568,
+      "songDuration": 247,
+      "talkTimeOffset": 835.5,
+      "refinedOffset": 710.7,
+      "refinementDelta": 124.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 1059,
+      "cumulativeSongDuration": 1509,
+      "scriptMentions": [
+        {
+          "timestamp": 708.7,
+          "matchType": "artist+title",
+          "matchedTerm": "이승철+사랑은 아프다"
+        }
+      ]
+    },
+    {
+      "songTitle": "이러지마 제발",
+      "artist": "K.WILL",
+      "musicId": "20120927172745784734",
+      "timestamp": "20260314224942",
+      "broadcastOffset": 2982,
+      "songDuration": 208,
+      "talkTimeOffset": 934.9,
+      "refinedOffset": 934.9,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1226,
+      "cumulativeSongDuration": 1756
+    },
+    {
+      "songTitle": "THINK ABOUT 'CHU",
+      "artist": "ASOTO UNION",
+      "musicId": "0000090005d28007f0db",
+      "timestamp": "20260314225454",
+      "broadcastOffset": 3294,
+      "songDuration": 281,
+      "talkTimeOffset": 1014.2,
+      "refinedOffset": 1014.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1330,
+      "cumulativeSongDuration": 1964
+    },
+    {
+      "songTitle": "SPECIAL LOVE",
+      "artist": "거미Ψ휘성",
+      "musicId": "20131205104652770025",
+      "timestamp": "20260314230139",
+      "broadcastOffset": 3699,
+      "songDuration": 204,
+      "talkTimeOffset": 1108.7,
+      "refinedOffset": 1108.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1454,
+      "cumulativeSongDuration": 2245
+    },
+    {
+      "songTitle": "다시 만난 너에게",
+      "artist": "피노키오",
+      "musicId": "0000090005d28013b3ca",
+      "timestamp": "20260314230718",
+      "broadcastOffset": 4038,
+      "songDuration": 245,
+      "talkTimeOffset": 1211.7,
+      "refinedOffset": 1042.6,
+      "refinementDelta": 169.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1589,
+      "cumulativeSongDuration": 2449,
+      "scriptMentions": [
+        {
+          "timestamp": 1042.6,
+          "matchType": "artist+title",
+          "matchedTerm": "피노키오+다시 만난 너에게"
+        }
+      ]
+    },
+    {
+      "songTitle": "그럴때마다",
+      "artist": "김연우Ψ김창원Ψ유희열Ψ윤종신Ψ이장우Ψ조규찬Ψ조삼희",
+      "musicId": "0000090005d280136c52",
+      "timestamp": "20260314231254",
+      "broadcastOffset": 4374,
+      "songDuration": 229,
+      "talkTimeOffset": 1281.1,
+      "refinedOffset": 1281.1,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1680,
+      "cumulativeSongDuration": 2694,
+      "scriptMentions": [
+        {
+          "timestamp": 1169.0,
+          "matchType": "title",
+          "matchedTerm": "그럴때마다"
+        }
+      ]
+    },
+    {
+      "songTitle": "너라면 좋겠어",
+      "artist": "윤도현",
+      "musicId": "20090924183353440331",
+      "timestamp": "20260314231706",
+      "broadcastOffset": 4626,
+      "songDuration": 196,
+      "talkTimeOffset": 1298.6,
+      "refinedOffset": 1169.0,
+      "refinementDelta": 129.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1703,
+      "cumulativeSongDuration": 2923,
+      "scriptMentions": [
+        {
+          "timestamp": 1172.9,
+          "matchType": "artist+title",
+          "matchedTerm": "윤도현+너라면 좋겠어"
+        }
+      ]
+    },
+    {
+      "songTitle": "비밀의 화원 (ORIGINAL)",
+      "artist": "이상은",
+      "musicId": "20120224173634624594",
+      "timestamp": "20260314232151",
+      "broadcastOffset": 4911,
+      "songDuration": 250,
+      "talkTimeOffset": 1366.5,
+      "refinedOffset": 1282.4,
+      "refinementDelta": 84.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1792,
+      "cumulativeSongDuration": 3119,
+      "scriptMentions": [
+        {
+          "timestamp": 1252.4,
+          "matchType": "artist+title",
+          "matchedTerm": "이상은+비밀의 화원"
+        }
+      ]
+    },
+    {
+      "songTitle": "혜화동 (혹은 쌍문동)",
+      "artist": "박보람",
+      "musicId": "20160216110155585009",
+      "timestamp": "20260314232557",
+      "broadcastOffset": 5157,
+      "songDuration": 264,
+      "talkTimeOffset": 1367.0,
+      "refinedOffset": 1284.4,
+      "refinementDelta": 82.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1788,
+      "cumulativeSongDuration": 3369,
+      "scriptMentions": [
+        {
+          "timestamp": 1255.2,
+          "matchType": "artist",
+          "matchedTerm": "박보람"
+        }
+      ]
+    },
+    {
+      "songTitle": "이 밤이 특별해진 건",
+      "artist": "URBAN ZAKAPA",
+      "musicId": "20181122091007319109",
+      "timestamp": "20260314233012",
+      "broadcastOffset": 5412,
+      "songDuration": 258,
+      "talkTimeOffset": 1367.5,
+      "refinedOffset": 1286.4,
+      "refinementDelta": 81.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1779,
+      "cumulativeSongDuration": 3633,
+      "scriptMentions": [
+        {
+          "timestamp": 1282.4,
+          "matchType": "artist+title",
+          "matchedTerm": "어반자카파+이 밤이 특별해진 건"
+        }
+      ]
+    },
+    {
+      "songTitle": "운명",
+      "artist": "이경섭",
+      "musicId": "0000090005d2809c4097",
+      "timestamp": "20260314233639",
+      "broadcastOffset": 5799,
+      "songDuration": 253,
+      "talkTimeOffset": 1454.9,
+      "refinedOffset": 1381.6,
+      "refinementDelta": 73.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1908,
+      "cumulativeSongDuration": 3891,
+      "scriptMentions": [
+        {
+          "timestamp": 1377.7,
+          "matchType": "artist+title",
+          "matchedTerm": "이경섭+운명"
+        },
+        {
+          "timestamp": 1385.2,
+          "matchType": "artist+title",
+          "matchedTerm": "이경섭+운명"
+        }
+      ]
+    },
+    {
+      "songTitle": "처음 그날처럼 (드라마 \"올인\" 중에서)",
+      "artist": "박용하",
+      "musicId": "20100203113645427320",
+      "timestamp": "20260314234045",
+      "broadcastOffset": 6045,
+      "songDuration": 255,
+      "talkTimeOffset": 1455.4,
+      "refinedOffset": 1383.6,
+      "refinementDelta": 71.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 1901,
+      "cumulativeSongDuration": 4144,
+      "scriptMentions": [
+        {
+          "timestamp": 1388.2,
+          "matchType": "title",
+          "matchedTerm": "처음 그날처럼"
+        }
+      ]
+    },
+    {
+      "songTitle": "MY LOVE",
+      "artist": "이현섭",
+      "musicId": "0000090005d28007fa33",
+      "timestamp": "20260314234415",
+      "broadcastOffset": 6255,
+      "songDuration": 272,
+      "talkTimeOffset": 1455.9,
+      "refinedOffset": 1385.6,
+      "refinementDelta": 70.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1856,
+      "cumulativeSongDuration": 4399,
+      "scriptMentions": [
+        {
+          "timestamp": 1381.6,
+          "matchType": "artist+title",
+          "matchedTerm": "이현섭+MY LOVE"
+        }
+      ]
+    },
+    {
+      "songTitle": "인생은 아름다워 (FEAT. 고상지)",
+      "artist": "정미조",
+      "musicId": "20160226081107705558",
+      "timestamp": "20260314235024",
+      "broadcastOffset": 6624,
+      "songDuration": 258,
+      "talkTimeOffset": 1489.3,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 1953,
+      "cumulativeSongDuration": 4671
+    },
+    {
+      "songTitle": "Whisky on the Rock",
+      "artist": "연지(김연지)",
+      "musicId": "20220526300004207304",
+      "timestamp": "20260314235521",
+      "broadcastOffset": 6921,
+      "songDuration": 309,
+      "talkTimeOffset": 1519.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 1992,
+      "cumulativeSongDuration": 4929
+    }
+  ]
+}

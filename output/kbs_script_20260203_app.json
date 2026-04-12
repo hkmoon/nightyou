@@ -1,0 +1,460 @@
+{
+  "date": "20260203",
+  "episode": "오늘의 밑줄",
+  "replayDuration": 1434,
+  "scaleFactor": 0.65,
+  "totalSongDuration": 4956,
+  "expectedTalkDuration": 2206,
+  "insertionPoints": [
+    96.8,
+    231.9,
+    642.4,
+    815.4,
+    1005.0,
+    1353.0,
+    1369.0,
+    1395.7,
+    1423.9,
+    1429.3
+  ],
+  "sentenceEndPoints": [
+    194.46,
+    197.45,
+    202.76,
+    211.77,
+    224.48,
+    228.44,
+    237.46,
+    263.86,
+    488.62,
+    507.66,
+    516.81,
+    528.4,
+    569.7,
+    591.83,
+    605.64,
+    669.94,
+    686.34,
+    793.1,
+    797.96,
+    804.94,
+    810.49,
+    819.47,
+    823.37,
+    831.2,
+    837.78,
+    851.98,
+    861.63,
+    907.44,
+    918.78,
+    925.93,
+    959.28,
+    1010.26,
+    1030.67,
+    1034.78,
+    1149.42,
+    1153.35,
+    1196.2,
+    1362.88
+  ],
+  "songs": [
+    {
+      "songTitle": "사랑하게 될 줄 알았어",
+      "artist": "신효범",
+      "musicId": "20060403164455311023",
+      "timestamp": "20260203220210",
+      "broadcastOffset": 130,
+      "songDuration": 240,
+      "talkTimeOffset": 84.5,
+      "refinedOffset": 96.8,
+      "refinementDelta": 12.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 130,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 85.6,
+          "matchType": "artist+title",
+          "matchedTerm": "신효범+사랑하게 될 줄 알았어"
+        }
+      ]
+    },
+    {
+      "songTitle": "모르죠",
+      "artist": "GOD",
+      "musicId": "0000090005d28008482c",
+      "timestamp": "20260203220955",
+      "broadcastOffset": 595,
+      "songDuration": 258,
+      "talkTimeOffset": 230.8,
+      "refinedOffset": 231.9,
+      "refinementDelta": 1.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 355,
+      "cumulativeSongDuration": 240,
+      "scriptMentions": [
+        {
+          "timestamp": 231.9,
+          "matchType": "artist",
+          "matchedTerm": "GOD"
+        }
+      ]
+    },
+    {
+      "songTitle": "A BETTER DAY",
+      "artist": "JTL",
+      "musicId": "0000090005d2800a7bf0",
+      "timestamp": "20260203221446",
+      "broadcastOffset": 886,
+      "songDuration": 246,
+      "talkTimeOffset": 252.2,
+      "refinedOffset": 233.9,
+      "refinementDelta": 18.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 388,
+      "cumulativeSongDuration": 498,
+      "scriptMentions": [
+        {
+          "timestamp": 230.0,
+          "matchType": "artist+title",
+          "matchedTerm": "JTL+A BETTER DAY"
+        }
+      ]
+    },
+    {
+      "songTitle": "THANK YOU(FOR SAVING MY LIFE)",
+      "artist": "조규찬",
+      "musicId": "0000090005d2800a9ce7",
+      "timestamp": "20260203222134",
+      "broadcastOffset": 1294,
+      "songDuration": 188,
+      "talkTimeOffset": 357.5,
+      "refinedOffset": 357.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 550,
+      "cumulativeSongDuration": 744
+    },
+    {
+      "songTitle": "미인",
+      "artist": "이기찬",
+      "musicId": "20070126172922940661",
+      "timestamp": "20260203222407",
+      "broadcastOffset": 1447,
+      "songDuration": 219,
+      "talkTimeOffset": 358.0,
+      "refinedOffset": 359.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 515,
+      "cumulativeSongDuration": 932,
+      "scriptMentions": [
+        {
+          "timestamp": 385.9,
+          "matchType": "artist+title",
+          "matchedTerm": "이기찬+미인"
+        }
+      ]
+    },
+    {
+      "songTitle": "당년정 (영웅본색 1)",
+      "artist": "장국영",
+      "musicId": "0000090005d28015d651",
+      "timestamp": "20260203223216",
+      "broadcastOffset": 1936,
+      "songDuration": 257,
+      "talkTimeOffset": 510.3,
+      "refinedOffset": 510.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 785,
+      "cumulativeSongDuration": 1151,
+      "scriptMentions": [
+        {
+          "timestamp": 607.1,
+          "matchType": "artist",
+          "matchedTerm": "장국영"
+        }
+      ]
+    },
+    {
+      "songTitle": "내사랑 내곁에",
+      "artist": "김현식",
+      "musicId": "0000090005d280088c18",
+      "timestamp": "20260203223937",
+      "broadcastOffset": 2377,
+      "songDuration": 264,
+      "talkTimeOffset": 629.9,
+      "refinedOffset": 815.4,
+      "refinementDelta": 185.5,
+      "matchMethod": "name",
+      "talkTimeBefore": 969,
+      "cumulativeSongDuration": 1408,
+      "scriptMentions": [
+        {
+          "timestamp": 806.5,
+          "matchType": "artist+title",
+          "matchedTerm": "김현식+내사랑 내곁에"
+        },
+        {
+          "timestamp": 815.4,
+          "matchType": "artist+title",
+          "matchedTerm": "김현식+내사랑 내곁에"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑과 우정사이",
+      "artist": "피노키오",
+      "musicId": "0000090005d28013b3be",
+      "timestamp": "20260203224349",
+      "broadcastOffset": 2629,
+      "songDuration": 266,
+      "talkTimeOffset": 630.4,
+      "refinedOffset": 817.4,
+      "refinementDelta": 187.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 957,
+      "cumulativeSongDuration": 1672,
+      "scriptMentions": [
+        {
+          "timestamp": 812.2,
+          "matchType": "artist+title",
+          "matchedTerm": "피노키오+사랑과 우정사이"
+        }
+      ]
+    },
+    {
+      "songTitle": "이럴 거면",
+      "artist": "IVY",
+      "musicId": "20070308104830531713",
+      "timestamp": "20260203225006",
+      "broadcastOffset": 3006,
+      "songDuration": 235,
+      "talkTimeOffset": 694.2,
+      "refinedOffset": 819.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1068,
+      "cumulativeSongDuration": 1938,
+      "scriptMentions": [
+        {
+          "timestamp": 944.3,
+          "matchType": "artist+title",
+          "matchedTerm": "아이비+이럴 거면"
+        }
+      ]
+    },
+    {
+      "songTitle": "잘가요 로맨스",
+      "artist": "서인영",
+      "musicId": "20100601172137787169",
+      "timestamp": "20260203225531",
+      "broadcastOffset": 3331,
+      "songDuration": 201,
+      "talkTimeOffset": 752.8,
+      "refinedOffset": 821.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1158,
+      "cumulativeSongDuration": 2173,
+      "scriptMentions": [
+        {
+          "timestamp": 952.7,
+          "matchType": "artist+title",
+          "matchedTerm": "서인영+잘가요 로맨스"
+        }
+      ]
+    },
+    {
+      "songTitle": "창문너머 어렴풋이 옛생각이 나겠지요",
+      "artist": "산울림",
+      "musicId": "0000090005d2800b0ff8",
+      "timestamp": "20260203230148",
+      "broadcastOffset": 3708,
+      "songDuration": 190,
+      "talkTimeOffset": 867.2,
+      "refinedOffset": 1005.0,
+      "refinementDelta": 137.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 1334,
+      "cumulativeSongDuration": 2374,
+      "scriptMentions": [
+        {
+          "timestamp": 1000.2,
+          "matchType": "title",
+          "matchedTerm": "창문너머 어렴풋이 옛생각이 나겠지요"
+        },
+        {
+          "timestamp": 1005.0,
+          "matchType": "artist",
+          "matchedTerm": "산울림"
+        }
+      ]
+    },
+    {
+      "songTitle": "겨울 아이",
+      "artist": "이종용",
+      "musicId": "0000090005d2800a8d1a",
+      "timestamp": "20260203230807",
+      "broadcastOffset": 4087,
+      "songDuration": 237,
+      "talkTimeOffset": 990.0,
+      "refinedOffset": 1353.0,
+      "refinementDelta": 363.0,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1523,
+      "cumulativeSongDuration": 2564,
+      "scriptMentions": [
+        {
+          "timestamp": 1120.7,
+          "matchType": "artist+title",
+          "matchedTerm": "이종용+겨울 아이"
+        },
+        {
+          "timestamp": 1123.4,
+          "matchType": "artist",
+          "matchedTerm": "이종용"
+        },
+        {
+          "timestamp": 1140.4,
+          "matchType": "artist+title",
+          "matchedTerm": "이종용+겨울 아이"
+        }
+      ]
+    },
+    {
+      "songTitle": "축복합니다",
+      "artist": "들국화",
+      "musicId": "0000090005d2800a15fd",
+      "timestamp": "20260203231227",
+      "broadcastOffset": 4347,
+      "songDuration": 255,
+      "talkTimeOffset": 1005.0,
+      "refinedOffset": 1355.0,
+      "refinementDelta": 350.1,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1546,
+      "cumulativeSongDuration": 2801
+    },
+    {
+      "songTitle": "축하해요",
+      "artist": "푸른하늘",
+      "musicId": "0000090005d2800b9933",
+      "timestamp": "20260203231636",
+      "broadcastOffset": 4596,
+      "songDuration": 233,
+      "talkTimeOffset": 1005.5,
+      "refinedOffset": 1357.0,
+      "refinementDelta": 351.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1540,
+      "cumulativeSongDuration": 3056
+    },
+    {
+      "songTitle": "모든 날, 모든 순간(EVERY DAY, EVERY MOMENT)",
+      "artist": "폴킴(PAUL KIM)",
+      "musicId": "20180816140933261503",
+      "timestamp": "20260203232519",
+      "broadcastOffset": 5119,
+      "songDuration": 210,
+      "talkTimeOffset": 1189.6,
+      "refinedOffset": 1362.9,
+      "refinementDelta": 173.3,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1830,
+      "cumulativeSongDuration": 3289
+    },
+    {
+      "songTitle": "인생은 미완성",
+      "artist": "이진관",
+      "musicId": "0000090005d2800ae8cf",
+      "timestamp": "20260203233352",
+      "broadcastOffset": 5632,
+      "songDuration": 227,
+      "talkTimeOffset": 1386.5,
+      "refinedOffset": 1362.9,
+      "refinementDelta": 23.7,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2133,
+      "cumulativeSongDuration": 3499
+    },
+    {
+      "songTitle": "그것은 인생",
+      "artist": "최혜영",
+      "musicId": "0000090005d2800ae1e8",
+      "timestamp": "20260203233703",
+      "broadcastOffset": 5823,
+      "songDuration": 259,
+      "talkTimeOffset": 1387.0,
+      "refinedOffset": 1364.9,
+      "refinementDelta": 22.2,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2097,
+      "cumulativeSongDuration": 3726
+    },
+    {
+      "songTitle": "도시의 삐에로",
+      "artist": "박혜성",
+      "musicId": "0000090005d28009c7a4",
+      "timestamp": "20260203234121",
+      "broadcastOffset": 6081,
+      "songDuration": 245,
+      "talkTimeOffset": 1387.5,
+      "refinedOffset": 1366.9,
+      "refinementDelta": 20.7,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2096,
+      "cumulativeSongDuration": 3985
+    },
+    {
+      "songTitle": "스잔",
+      "artist": "김승진",
+      "musicId": "0000090005d280db396c",
+      "timestamp": "20260203234554",
+      "broadcastOffset": 6354,
+      "songDuration": 214,
+      "talkTimeOffset": 1388.0,
+      "refinedOffset": 1368.9,
+      "refinementDelta": 19.2,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2124,
+      "cumulativeSongDuration": 4230
+    },
+    {
+      "songTitle": "사랑은 유리같은것",
+      "artist": "원준희",
+      "musicId": "0000090005d28010a738",
+      "timestamp": "20260203235015",
+      "broadcastOffset": 6615,
+      "songDuration": 241,
+      "talkTimeOffset": 1411.2,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2171,
+      "cumulativeSongDuration": 4444,
+      "scriptMentions": [
+        {
+          "timestamp": 1395.7,
+          "matchType": "title",
+          "matchedTerm": "사랑은 유리같은것"
+        }
+      ]
+    },
+    {
+      "songTitle": "이젠 잊기로 해요",
+      "artist": "김완선",
+      "musicId": "20170420094001484232",
+      "timestamp": "20260203235451",
+      "broadcastOffset": 6891,
+      "songDuration": 271,
+      "talkTimeOffset": 1434.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2206,
+      "cumulativeSongDuration": 4685
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+{
+  "date": "20260215",
+  "episode": "[5일간의 음악여행] 환상의 짝꿍",
+  "replayDuration": 964,
+  "scaleFactor": 0.9278,
+  "totalSongDuration": 6192,
+  "expectedTalkDuration": 1039,
+  "insertionPoints": [
+    92.0,
+    315.1,
+    379.1,
+    485.1,
+    570.8,
+    733.4,
+    748.7,
+    869.6,
+    893.7,
+    910.0
+  ],
+  "sentenceEndPoints": [
+    65.03,
+    91.95,
+    107.6,
+    110.97,
+    157.58,
+    194.49,
+    249.44,
+    305.42,
+    315.06,
+    332.93,
+    379.15,
+    392.58,
+    456.92,
+    470.92,
+    520.45,
+    573.4,
+    586.84,
+    667.01,
+    718.88,
+    733.38,
+    743.08,
+    750.67,
+    785.62,
+    801.22,
+    821.54,
+    869.65,
+    897.7,
+    904.09,
+    909.95,
+    941.53,
+    958.61
+  ],
+  "songs": [
+    {
+      "songTitle": "놀러와 (FROM \"싱글즈\")",
+      "artist": "러브홀릭",
+      "musicId": "20090818133906890864",
+      "timestamp": "20260215220220",
+      "broadcastOffset": 140,
+      "songDuration": 187,
+      "talkTimeOffset": 129.9,
+      "refinedOffset": 92.0,
+      "refinementDelta": 37.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 140,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 94.8,
+          "matchType": "artist+title",
+          "matchedTerm": "러브홀릭+놀러와"
+        }
+      ]
+    },
+    {
+      "songTitle": "LA VITA E BELLA",
+      "artist": "NICOLA PIOVANI",
+      "musicId": "0000090005d28019cfe0",
+      "timestamp": "20260215221020",
+      "broadcastOffset": 620,
+      "songDuration": 166,
+      "talkTimeOffset": 401.7,
+      "refinedOffset": 401.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 433,
+      "cumulativeSongDuration": 187
+    },
+    {
+      "songTitle": "보라빛 향기",
+      "artist": "강수지",
+      "musicId": "0000090005d2800b51b3",
+      "timestamp": "20260215221052",
+      "broadcastOffset": 652,
+      "songDuration": 207,
+      "talkTimeOffset": 402.2,
+      "refinedOffset": 379.1,
+      "refinementDelta": 23.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 299,
+      "cumulativeSongDuration": 353,
+      "scriptMentions": [
+        {
+          "timestamp": 218.0,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 283.1,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 295.8,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 316.7,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 320.3,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        }
+      ]
+    },
+    {
+      "songTitle": "시간속의 향기",
+      "artist": "강수지",
+      "musicId": "0000090005d28008daa2",
+      "timestamp": "20260215221346",
+      "broadcastOffset": 826,
+      "songDuration": 220,
+      "talkTimeOffset": 402.7,
+      "refinedOffset": 381.1,
+      "refinementDelta": 21.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 266,
+      "cumulativeSongDuration": 560,
+      "scriptMentions": [
+        {
+          "timestamp": 218.0,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 283.1,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 295.8,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 316.7,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 320.3,
+          "matchType": "artist+title",
+          "matchedTerm": "강수지+시간속의 향기"
+        }
+      ]
+    },
+    {
+      "songTitle": "흩어진 나날들",
+      "artist": "강수지",
+      "musicId": "0000090005d2800abeb7",
+      "timestamp": "20260215221801",
+      "broadcastOffset": 1081,
+      "songDuration": 213,
+      "talkTimeOffset": 403.2,
+      "refinedOffset": 383.1,
+      "refinementDelta": 20.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 301,
+      "cumulativeSongDuration": 780,
+      "scriptMentions": [
+        {
+          "timestamp": 218.0,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 283.1,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 295.8,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 316.7,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 320.3,
+          "matchType": "artist+title",
+          "matchedTerm": "강수지+흩어진 나날들"
+        }
+      ]
+    },
+    {
+      "songTitle": "필요한건 시간일뿐",
+      "artist": "강수지",
+      "musicId": "0000090005d28008d3b5",
+      "timestamp": "20260215222131",
+      "broadcastOffset": 1291,
+      "songDuration": 238,
+      "talkTimeOffset": 403.7,
+      "refinedOffset": 385.1,
+      "refinementDelta": 18.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 298,
+      "cumulativeSongDuration": 993,
+      "scriptMentions": [
+        {
+          "timestamp": 218.0,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 283.1,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 295.8,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 316.7,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 320.3,
+          "matchType": "artist+title",
+          "matchedTerm": "강수지+필요한건 시간일뿐"
+        }
+      ]
+    },
+    {
+      "songTitle": "혼자만의 겨울",
+      "artist": "강수지",
+      "musicId": "0000090005d2800b51b5",
+      "timestamp": "20260215222528",
+      "broadcastOffset": 1528,
+      "songDuration": 236,
+      "talkTimeOffset": 404.2,
+      "refinedOffset": 387.1,
+      "refinementDelta": 17.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 297,
+      "cumulativeSongDuration": 1231,
+      "scriptMentions": [
+        {
+          "timestamp": 218.0,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 283.1,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 295.8,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 316.7,
+          "matchType": "artist",
+          "matchedTerm": "강수지"
+        },
+        {
+          "timestamp": 320.3,
+          "matchType": "artist+title",
+          "matchedTerm": "강수지+혼자만의 겨울"
+        }
+      ]
+    },
+    {
+      "songTitle": "잠 못 드는 밤 비는 내리고",
+      "artist": "김건모",
+      "musicId": "20110926111527859471",
+      "timestamp": "20260215223143",
+      "broadcastOffset": 1903,
+      "songDuration": 265,
+      "talkTimeOffset": 404.5,
+      "refinedOffset": 570.8,
+      "refinementDelta": 166.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 436,
+      "cumulativeSongDuration": 1467,
+      "scriptMentions": [
+        {
+          "timestamp": 369.3,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 393.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 399.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 416.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 421.2,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 428.7,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+잠 못 드는 밤 비는 내리고"
+        },
+        {
+          "timestamp": 464.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 471.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 485.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 494.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 512.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        }
+      ]
+    },
+    {
+      "songTitle": "핑계",
+      "artist": "김건모",
+      "musicId": "0000090005d2800b2482",
+      "timestamp": "20260215223637",
+      "broadcastOffset": 2197,
+      "songDuration": 212,
+      "talkTimeOffset": 431.4,
+      "refinedOffset": 572.8,
+      "refinementDelta": 141.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 465,
+      "cumulativeSongDuration": 1732,
+      "scriptMentions": [
+        {
+          "timestamp": 369.3,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 393.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 399.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 416.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 421.2,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 428.7,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+핑계"
+        },
+        {
+          "timestamp": 464.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 471.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 485.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 494.9,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+핑계"
+        },
+        {
+          "timestamp": 512.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        }
+      ]
+    },
+    {
+      "songTitle": "드라마",
+      "artist": "김건모",
+      "musicId": "20110926112432059292",
+      "timestamp": "20260215224007",
+      "broadcastOffset": 2407,
+      "songDuration": 258,
+      "talkTimeOffset": 431.9,
+      "refinedOffset": 574.8,
+      "refinementDelta": 142.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 463,
+      "cumulativeSongDuration": 1944,
+      "scriptMentions": [
+        {
+          "timestamp": 369.3,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 393.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 399.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 416.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 421.2,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 428.7,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 464.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 471.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 485.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 494.9,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+드라마"
+        },
+        {
+          "timestamp": 512.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        }
+      ]
+    },
+    {
+      "songTitle": "잘못된 만남",
+      "artist": "김건모",
+      "musicId": "0000090005d2800aa64f",
+      "timestamp": "20260215224419",
+      "broadcastOffset": 2659,
+      "songDuration": 254,
+      "talkTimeOffset": 432.4,
+      "refinedOffset": 576.8,
+      "refinementDelta": 144.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 457,
+      "cumulativeSongDuration": 2202,
+      "scriptMentions": [
+        {
+          "timestamp": 369.3,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 393.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 399.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 416.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 421.2,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 428.7,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+잘못된 만남"
+        },
+        {
+          "timestamp": 464.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 471.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 485.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 494.9,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+잘못된 만남"
+        },
+        {
+          "timestamp": 512.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑해 (FALL IN LOVE)",
+      "artist": "김건모",
+      "musicId": "20110926111240939479",
+      "timestamp": "20260215224825",
+      "broadcastOffset": 2905,
+      "songDuration": 236,
+      "talkTimeOffset": 432.9,
+      "refinedOffset": 578.8,
+      "refinementDelta": 145.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 449,
+      "cumulativeSongDuration": 2456,
+      "scriptMentions": [
+        {
+          "timestamp": 369.3,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 393.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 399.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 416.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 421.2,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 428.7,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 464.0,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 471.9,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 485.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        },
+        {
+          "timestamp": 494.9,
+          "matchType": "artist+title",
+          "matchedTerm": "김건모+사랑해"
+        },
+        {
+          "timestamp": 512.6,
+          "matchType": "artist",
+          "matchedTerm": "김건모"
+        }
+      ]
+    },
+    {
+      "songTitle": "함께",
+      "artist": "김건모Ψ박광현",
+      "musicId": "0000090005d2800abaf1",
+      "timestamp": "20260215225419",
+      "broadcastOffset": 3259,
+      "songDuration": 293,
+      "talkTimeOffset": 526.1,
+      "refinedOffset": 580.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 567,
+      "cumulativeSongDuration": 2692
+    },
+    {
+      "songTitle": "짝",
+      "artist": "심태윤",
+      "musicId": "0000090005d28007b810",
+      "timestamp": "20260215230122",
+      "broadcastOffset": 3682,
+      "songDuration": 237,
+      "talkTimeOffset": 646.7,
+      "refinedOffset": 580.8,
+      "refinementDelta": 65.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 697,
+      "cumulativeSongDuration": 2985,
+      "scriptMentions": [
+        {
+          "timestamp": 570.8,
+          "matchType": "artist",
+          "matchedTerm": "심태윤"
+        }
+      ]
+    },
+    {
+      "songTitle": "I BELIEVE",
+      "artist": "이수영",
+      "musicId": "0000090005d2800aa621",
+      "timestamp": "20260215230828",
+      "broadcastOffset": 4108,
+      "songDuration": 290,
+      "talkTimeOffset": 822.0,
+      "refinedOffset": 748.7,
+      "refinementDelta": 73.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 886,
+      "cumulativeSongDuration": 3222,
+      "scriptMentions": [
+        {
+          "timestamp": 655.5,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 673.3,
+          "matchType": "artist+title",
+          "matchedTerm": "이수영+I BELIEVE"
+        },
+        {
+          "timestamp": 686.8,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 702.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 738.7,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 744.1,
+          "matchType": "artist+title",
+          "matchedTerm": "이수영+I BELIEVE"
+        }
+      ]
+    },
+    {
+      "songTitle": "그리고 사랑해",
+      "artist": "이수영",
+      "musicId": "0000090005d280c13ef2",
+      "timestamp": "20260215231249",
+      "broadcastOffset": 4369,
+      "songDuration": 259,
+      "talkTimeOffset": 822.5,
+      "refinedOffset": 750.7,
+      "refinementDelta": 71.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 857,
+      "cumulativeSongDuration": 3512,
+      "scriptMentions": [
+        {
+          "timestamp": 655.5,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 673.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 686.8,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 702.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 738.7,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 744.1,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        }
+      ]
+    },
+    {
+      "songTitle": "라라라",
+      "artist": "이수영",
+      "musicId": "0000090005d2800a6bd8",
+      "timestamp": "20260215231734",
+      "broadcastOffset": 4654,
+      "songDuration": 273,
+      "talkTimeOffset": 823.0,
+      "refinedOffset": 752.7,
+      "refinementDelta": 70.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 883,
+      "cumulativeSongDuration": 3771,
+      "scriptMentions": [
+        {
+          "timestamp": 655.5,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 673.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 686.8,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 702.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 738.7,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 744.1,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 745.6,
+          "matchType": "title",
+          "matchedTerm": "라라라"
+        }
+      ]
+    },
+    {
+      "songTitle": "스치듯 안녕",
+      "artist": "이수영",
+      "musicId": "0000090005d280c13eca",
+      "timestamp": "20260215232148",
+      "broadcastOffset": 4908,
+      "songDuration": 287,
+      "talkTimeOffset": 823.5,
+      "refinedOffset": 754.7,
+      "refinementDelta": 68.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 864,
+      "cumulativeSongDuration": 4044,
+      "scriptMentions": [
+        {
+          "timestamp": 655.5,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 673.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 686.8,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 702.3,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 738.7,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 744.1,
+          "matchType": "artist",
+          "matchedTerm": "이수영"
+        },
+        {
+          "timestamp": 748.7,
+          "matchType": "title",
+          "matchedTerm": "스치듯 안녕"
+        }
+      ]
+    },
+    {
+      "songTitle": "LOVE IS...",
+      "artist": "",
+      "musicId": "20060609161042441722",
+      "timestamp": "20260215232640",
+      "broadcastOffset": 5200,
+      "songDuration": 48,
+      "talkTimeOffset": 824.0,
+      "refinedOffset": 824.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 869,
+      "cumulativeSongDuration": 4331
+    },
+    {
+      "songTitle": "광(狂)",
+      "artist": "SG워너비",
+      "musicId": "0000090005d280cdf3fe",
+      "timestamp": "20260215232839",
+      "broadcastOffset": 5319,
+      "songDuration": 236,
+      "talkTimeOffset": 872.1,
+      "refinedOffset": 910.0,
+      "refinementDelta": 37.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 940,
+      "cumulativeSongDuration": 4379,
+      "scriptMentions": [
+        {
+          "timestamp": 779.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 787.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 792.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 802.5,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 809.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 822.8,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 835.9,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 861.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 878.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 884.4,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 905.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        }
+      ]
+    },
+    {
+      "songTitle": "가시리",
+      "artist": "KCMΨSG워너비",
+      "musicId": "20070312105001274823",
+      "timestamp": "20260215233224",
+      "broadcastOffset": 5544,
+      "songDuration": 225,
+      "talkTimeOffset": 872.6,
+      "refinedOffset": 912.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 929,
+      "cumulativeSongDuration": 4615
+    },
+    {
+      "songTitle": "한 여름날의 꿈",
+      "artist": "SG워너비",
+      "musicId": "20070416160109571719",
+      "timestamp": "20260215233607",
+      "broadcastOffset": 5767,
+      "songDuration": 255,
+      "talkTimeOffset": 873.1,
+      "refinedOffset": 912.0,
+      "refinementDelta": 38.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 927,
+      "cumulativeSongDuration": 4840,
+      "scriptMentions": [
+        {
+          "timestamp": 779.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 787.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 792.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 802.5,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 809.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 822.8,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 835.9,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 861.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 878.2,
+          "matchType": "artist+title",
+          "matchedTerm": "SG워너비+한 여름날의 꿈"
+        },
+        {
+          "timestamp": 884.4,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 905.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        }
+      ]
+    },
+    {
+      "songTitle": "내사람",
+      "artist": "SG워너비",
+      "musicId": "20060420171637795362",
+      "timestamp": "20260215234018",
+      "broadcastOffset": 6018,
+      "songDuration": 297,
+      "talkTimeOffset": 873.6,
+      "refinedOffset": 914.0,
+      "refinementDelta": 40.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 923,
+      "cumulativeSongDuration": 5095,
+      "scriptMentions": [
+        {
+          "timestamp": 779.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 787.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 792.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 802.5,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 809.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 822.8,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 835.9,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 861.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 878.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 884.4,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 905.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        }
+      ]
+    },
+    {
+      "songTitle": "라라라",
+      "artist": "SG워너비",
+      "musicId": "20080509113752308204",
+      "timestamp": "20260215234518",
+      "broadcastOffset": 6318,
+      "songDuration": 275,
+      "talkTimeOffset": 874.1,
+      "refinedOffset": 916.0,
+      "refinementDelta": 41.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 926,
+      "cumulativeSongDuration": 5392,
+      "scriptMentions": [
+        {
+          "timestamp": 745.6,
+          "matchType": "title",
+          "matchedTerm": "라라라"
+        },
+        {
+          "timestamp": 779.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 787.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 792.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 802.5,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 809.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 822.8,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 835.9,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 861.0,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 878.2,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 884.4,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        },
+        {
+          "timestamp": 905.1,
+          "matchType": "artist",
+          "matchedTerm": "SG워너비"
+        }
+      ]
+    },
+    {
+      "songTitle": "가족사진",
+      "artist": "김진호",
+      "musicId": "20130208143011284748",
+      "timestamp": "20260215235051",
+      "broadcastOffset": 6651,
+      "songDuration": 263,
+      "talkTimeOffset": 913.0,
+      "refinedOffset": 918.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 984,
+      "cumulativeSongDuration": 5667
+    },
+    {
+      "songTitle": "녹턴",
+      "artist": "이은미",
+      "musicId": "20100616161914567357",
+      "timestamp": "20260215235609",
+      "broadcastOffset": 6969,
+      "songDuration": 262,
+      "talkTimeOffset": 964.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 1039,
+      "cumulativeSongDuration": 5930,
+      "scriptMentions": [
+        {
+          "timestamp": 943.4,
+          "matchType": "artist+title",
+          "matchedTerm": "이은미+녹턴"
+        }
+      ]
+    }
+  ]
+}

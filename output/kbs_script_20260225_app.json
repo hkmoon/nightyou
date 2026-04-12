@@ -1,0 +1,432 @@
+{
+  "date": "20260225",
+  "episode": "생각이 켜진 밤",
+  "replayDuration": 1828,
+  "scaleFactor": 0.716,
+  "totalSongDuration": 4593,
+  "expectedTalkDuration": 2553,
+  "insertionPoints": [
+    205.0,
+    419.8,
+    702.2,
+    861.4,
+    1393.3,
+    1732.3,
+    1747.3,
+    1757.3,
+    1768.8,
+    1774.0,
+    1817.0,
+    1823.3
+  ],
+  "sentenceEndPoints": [
+    52.62,
+    85.12,
+    95.77,
+    138.62,
+    141.98,
+    146.1,
+    159.69,
+    171.05,
+    253.08,
+    265.24,
+    277.67,
+    282.37,
+    414.59,
+    419.8,
+    530.38,
+    717.43,
+    735.32,
+    746.37,
+    750.98,
+    760.64,
+    787.09,
+    792.41,
+    812.87,
+    958.18,
+    965.0,
+    1078.48,
+    1135.31,
+    1143.46,
+    1257.16,
+    1340.55,
+    1348.79,
+    1396.83,
+    1424.2,
+    1427.93,
+    1503.84,
+    1546.83,
+    1551.74,
+    1556.04,
+    1560.17,
+    1590.82,
+    1596.59,
+    1684.33,
+    1712.06,
+    1716.66,
+    1732.34
+  ],
+  "songs": [
+    {
+      "songTitle": "처음",
+      "artist": "성시경",
+      "musicId": "20110524095706421893",
+      "timestamp": "20260225220233",
+      "broadcastOffset": 153,
+      "songDuration": 263,
+      "talkTimeOffset": 109.6,
+      "refinedOffset": 109.6,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 153,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 100.1,
+          "matchType": "artist+title",
+          "matchedTerm": "성시경+처음"
+        }
+      ]
+    },
+    {
+      "songTitle": "첫사랑",
+      "artist": "백아",
+      "musicId": "20190109095157577438",
+      "timestamp": "20260225220957",
+      "broadcastOffset": 597,
+      "songDuration": 191,
+      "talkTimeOffset": 239.2,
+      "refinedOffset": 205.0,
+      "refinementDelta": 34.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 334,
+      "cumulativeSongDuration": 263,
+      "scriptMentions": [
+        {
+          "timestamp": 205.0,
+          "matchType": "title",
+          "matchedTerm": "첫사랑"
+        }
+      ]
+    },
+    {
+      "songTitle": "고백",
+      "artist": "델리스파이스",
+      "musicId": "0000090005d2800a66de",
+      "timestamp": "20260225221334",
+      "broadcastOffset": 814,
+      "songDuration": 323,
+      "talkTimeOffset": 257.8,
+      "refinedOffset": 207.0,
+      "refinementDelta": 50.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 360,
+      "cumulativeSongDuration": 454,
+      "scriptMentions": [
+        {
+          "timestamp": 202.7,
+          "matchType": "artist+title",
+          "matchedTerm": "델리스파이스+고백"
+        }
+      ]
+    },
+    {
+      "songTitle": "인형의 꿈",
+      "artist": "일기예보",
+      "musicId": "0000090005d2800a8fad",
+      "timestamp": "20260225222119",
+      "broadcastOffset": 1279,
+      "songDuration": 254,
+      "talkTimeOffset": 359.4,
+      "refinedOffset": 419.8,
+      "refinementDelta": 60.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 502,
+      "cumulativeSongDuration": 777,
+      "scriptMentions": [
+        {
+          "timestamp": 416.1,
+          "matchType": "artist+title",
+          "matchedTerm": "일기예보+인형의 꿈"
+        },
+        {
+          "timestamp": 426.8,
+          "matchType": "artist+title",
+          "matchedTerm": "일기예보+인형의 꿈"
+        }
+      ]
+    },
+    {
+      "songTitle": "나를 사랑했던 사람아 (MR)",
+      "artist": "허각",
+      "musicId": "20120327171310521505",
+      "timestamp": "20260225222534",
+      "broadcastOffset": 1534,
+      "songDuration": 238,
+      "talkTimeOffset": 360.2,
+      "refinedOffset": 421.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 503,
+      "cumulativeSongDuration": 1031
+    },
+    {
+      "songTitle": "다투고 난 뒤",
+      "artist": "듀스",
+      "musicId": "0000090005d280138d93",
+      "timestamp": "20260225223422",
+      "broadcastOffset": 2062,
+      "songDuration": 288,
+      "talkTimeOffset": 567.8,
+      "refinedOffset": 702.2,
+      "refinementDelta": 134.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 793,
+      "cumulativeSongDuration": 1269,
+      "scriptMentions": [
+        {
+          "timestamp": 567.0,
+          "matchType": "artist",
+          "matchedTerm": "듀스"
+        },
+        {
+          "timestamp": 702.2,
+          "matchType": "artist",
+          "matchedTerm": "듀스"
+        }
+      ]
+    },
+    {
+      "songTitle": "너 그럴때면",
+      "artist": "이브",
+      "musicId": "0000090005d28012daac",
+      "timestamp": "20260225224143",
+      "broadcastOffset": 2503,
+      "songDuration": 244,
+      "talkTimeOffset": 677.4,
+      "refinedOffset": 861.4,
+      "refinementDelta": 184.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 946,
+      "cumulativeSongDuration": 1557,
+      "scriptMentions": [
+        {
+          "timestamp": 857.6,
+          "matchType": "title",
+          "matchedTerm": "너 그럴때면"
+        }
+      ]
+    },
+    {
+      "songTitle": "오랜 날 오랜 밤",
+      "artist": "악동뮤지션",
+      "musicId": "20170105135543746425",
+      "timestamp": "20260225225429",
+      "broadcastOffset": 3269,
+      "songDuration": 286,
+      "talkTimeOffset": 1051.1,
+      "refinedOffset": 1051.1,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1468,
+      "cumulativeSongDuration": 1801,
+      "scriptMentions": [
+        {
+          "timestamp": 1342.2,
+          "matchType": "artist",
+          "matchedTerm": "악동뮤지션"
+        }
+      ]
+    },
+    {
+      "songTitle": "언제나 그랬죠",
+      "artist": "BROWN EYES",
+      "musicId": "20070703113235531807",
+      "timestamp": "20260225230135",
+      "broadcastOffset": 3695,
+      "songDuration": 238,
+      "talkTimeOffset": 1151.4,
+      "refinedOffset": 1151.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1608,
+      "cumulativeSongDuration": 2087,
+      "scriptMentions": [
+        {
+          "timestamp": 1389.4,
+          "matchType": "artist",
+          "matchedTerm": "브라운 아이즈"
+        }
+      ]
+    },
+    {
+      "songTitle": "소녀와 가로등",
+      "artist": "현이와 덕이",
+      "musicId": "0000090005d2800afb39",
+      "timestamp": "20260225230844",
+      "broadcastOffset": 4124,
+      "songDuration": 206,
+      "talkTimeOffset": 1288.1,
+      "refinedOffset": 1560.2,
+      "refinementDelta": 272.0,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1799,
+      "cumulativeSongDuration": 2325,
+      "scriptMentions": [
+        {
+          "timestamp": 1513.6,
+          "matchType": "artist+title",
+          "matchedTerm": "현이와 덕이+소녀와 가로등"
+        },
+        {
+          "timestamp": 1517.3,
+          "matchType": "artist",
+          "matchedTerm": "현이와 덕이"
+        },
+        {
+          "timestamp": 1527.2,
+          "matchType": "title",
+          "matchedTerm": "소녀와 가로등"
+        },
+        {
+          "timestamp": 1539.0,
+          "matchType": "artist",
+          "matchedTerm": "현이와 덕이"
+        }
+      ]
+    },
+    {
+      "songTitle": "창밖에 잠수교가 보인다",
+      "artist": "박영민",
+      "musicId": "0000090005d2800b09a2",
+      "timestamp": "20260225231211",
+      "broadcastOffset": 4331,
+      "songDuration": 231,
+      "talkTimeOffset": 1288.8,
+      "refinedOffset": 1562.2,
+      "refinementDelta": 273.3,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1800,
+      "cumulativeSongDuration": 2531
+    },
+    {
+      "songTitle": "그댄 봄비를 무척 좋아하나요",
+      "artist": "배따라기",
+      "musicId": "0000090005d280085865",
+      "timestamp": "20260225231529",
+      "broadcastOffset": 4529,
+      "songDuration": 227,
+      "talkTimeOffset": 1289.3,
+      "refinedOffset": 1564.2,
+      "refinementDelta": 274.8,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1767,
+      "cumulativeSongDuration": 2762
+    },
+    {
+      "songTitle": "WHERE IS THE LOVE ?",
+      "artist": "BLACK EYED PEAS",
+      "musicId": "20110727093246805784",
+      "timestamp": "20260225232117",
+      "broadcastOffset": 4877,
+      "songDuration": 274,
+      "talkTimeOffset": 1351.8,
+      "refinedOffset": 1566.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1888,
+      "cumulativeSongDuration": 2989
+    },
+    {
+      "songTitle": "HALO",
+      "artist": "BEYONCE",
+      "musicId": "20090824165014153908",
+      "timestamp": "20260225233057",
+      "broadcastOffset": 5457,
+      "songDuration": 259,
+      "talkTimeOffset": 1570.9,
+      "refinedOffset": 1684.3,
+      "refinementDelta": 113.4,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2194,
+      "cumulativeSongDuration": 3263
+    },
+    {
+      "songTitle": "ONE",
+      "artist": "EPIK HIGH",
+      "musicId": "20080428160912964130",
+      "timestamp": "20260225233542",
+      "broadcastOffset": 5742,
+      "songDuration": 230,
+      "talkTimeOffset": 1589.6,
+      "refinedOffset": 1684.3,
+      "refinementDelta": 94.8,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2220,
+      "cumulativeSongDuration": 3522
+    },
+    {
+      "songTitle": "10 MINUTES",
+      "artist": "이효리",
+      "musicId": "0000090005d28008c3f1",
+      "timestamp": "20260225234254",
+      "broadcastOffset": 6174,
+      "songDuration": 231,
+      "talkTimeOffset": 1734.2,
+      "refinedOffset": 1686.3,
+      "refinementDelta": 47.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2422,
+      "cumulativeSongDuration": 3752
+    },
+    {
+      "songTitle": "둘이서",
+      "artist": "채연",
+      "musicId": "0000090005d280bcb47b",
+      "timestamp": "20260225234645",
+      "broadcastOffset": 6405,
+      "songDuration": 182,
+      "talkTimeOffset": 1734.2,
+      "refinedOffset": 1688.3,
+      "refinementDelta": 45.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2422,
+      "cumulativeSongDuration": 3983
+    },
+    {
+      "songTitle": "반쪽",
+      "artist": "박화요비",
+      "musicId": "20090209133240434404",
+      "timestamp": "20260225235039",
+      "broadcastOffset": 6639,
+      "songDuration": 194,
+      "talkTimeOffset": 1771.4,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2474,
+      "cumulativeSongDuration": 4165
+    },
+    {
+      "songTitle": "FLY TO THE SKY",
+      "artist": "FLY TO THE SKY",
+      "musicId": "0000090005d2800772cd",
+      "timestamp": "20260225235512",
+      "broadcastOffset": 6912,
+      "songDuration": 234,
+      "talkTimeOffset": 1828.0,
+      "refinedOffset": 1823,
+      "refinementDelta": 5.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 2553,
+      "cumulativeSongDuration": 4359,
+      "scriptMentions": [
+        {
+          "timestamp": 1817.0,
+          "matchType": "artist+title",
+          "matchedTerm": "FLY TO THE SKY+FLY TO THE SKY"
+        }
+      ]
+    }
+  ]
+}

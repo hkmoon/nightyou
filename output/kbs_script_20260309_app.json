@@ -1,0 +1,459 @@
+{
+  "date": "20260309",
+  "episode": "오늘의 밑줄",
+  "replayDuration": 1470,
+  "scaleFactor": 0.6997,
+  "totalSongDuration": 5029,
+  "expectedTalkDuration": 2101,
+  "insertionPoints": [
+    89.9,
+    234.1,
+    380.6,
+    610.7,
+    778.0,
+    920.0,
+    963.4,
+    1009.6,
+    1370.8,
+    1391.3,
+    1462.4
+  ],
+  "sentenceEndPoints": [
+    68.78,
+    73.85,
+    78.19,
+    95.6,
+    149.85,
+    162.75,
+    167.44,
+    214.2,
+    297.57,
+    340.17,
+    380.56,
+    443.55,
+    451.15,
+    454.2,
+    458.56,
+    503.6,
+    516.69,
+    539.3,
+    561.75,
+    605.1,
+    696.55,
+    964.97,
+    1012.94,
+    1028.27,
+    1160.74,
+    1165.55,
+    1175.19,
+    1204.85,
+    1225.04,
+    1230.77,
+    1236.46,
+    1242.82,
+    1391.35,
+    1406.66
+  ],
+  "songs": [
+    {
+      "songTitle": "사랑이 올까요",
+      "artist": "변진섭",
+      "musicId": "20080402143105873822",
+      "timestamp": "20260309220231",
+      "broadcastOffset": 151,
+      "songDuration": 212,
+      "talkTimeOffset": 105.6,
+      "refinedOffset": 89.9,
+      "refinementDelta": 15.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 151,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 82.1,
+          "matchType": "artist+title",
+          "matchedTerm": "변진섭+사랑이 올까요"
+        }
+      ]
+    },
+    {
+      "songTitle": "고마워 그리고 행복해",
+      "artist": "차태현",
+      "musicId": "0000090005d28008b5c7",
+      "timestamp": "20260309220952",
+      "broadcastOffset": 592,
+      "songDuration": 198,
+      "talkTimeOffset": 265.9,
+      "refinedOffset": 234.1,
+      "refinementDelta": 31.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 380,
+      "cumulativeSongDuration": 212,
+      "scriptMentions": [
+        {
+          "timestamp": 236.3,
+          "matchType": "title",
+          "matchedTerm": "고마워 그리고 행복해"
+        }
+      ]
+    },
+    {
+      "songTitle": "샤랄라 숑",
+      "artist": "MAYBEE",
+      "musicId": "20071012150226928029",
+      "timestamp": "20260309221301",
+      "broadcastOffset": 781,
+      "songDuration": 276,
+      "talkTimeOffset": 266.4,
+      "refinedOffset": 266.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 371,
+      "cumulativeSongDuration": 410
+    },
+    {
+      "songTitle": "소중한 사람",
+      "artist": "7공주",
+      "musicId": "20051209150209056903",
+      "timestamp": "20260309222004",
+      "broadcastOffset": 1204,
+      "songDuration": 222,
+      "talkTimeOffset": 362.4,
+      "refinedOffset": 362.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 518,
+      "cumulativeSongDuration": 686
+    },
+    {
+      "songTitle": "(3/8 발매) 하이파이브(Hi-Five)",
+      "artist": "스윗소로우 (SWEET SORROW)",
+      "musicId": "20260305300012967293",
+      "timestamp": "20260309223057",
+      "broadcastOffset": 1857,
+      "songDuration": 256,
+      "talkTimeOffset": 664.0,
+      "refinedOffset": 664.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 949,
+      "cumulativeSongDuration": 908
+    },
+    {
+      "songTitle": "응원가",
+      "artist": "어쿠스틱 콜라보",
+      "musicId": "20141215141439234456",
+      "timestamp": "20260309223748",
+      "broadcastOffset": 2268,
+      "songDuration": 191,
+      "talkTimeOffset": 772.4,
+      "refinedOffset": 778.0,
+      "refinementDelta": 5.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1104,
+      "cumulativeSongDuration": 1164,
+      "scriptMentions": [
+        {
+          "timestamp": 771.3,
+          "matchType": "artist",
+          "matchedTerm": "어쿠스틱 콜라보"
+        },
+        {
+          "timestamp": 774.2,
+          "matchType": "title",
+          "matchedTerm": "응원가"
+        },
+        {
+          "timestamp": 778.0,
+          "matchType": "artist+title",
+          "matchedTerm": "어쿠스틱 콜라보+응원가"
+        }
+      ]
+    },
+    {
+      "songTitle": "슈퍼스타",
+      "artist": "이한철",
+      "musicId": "20060209140607757170",
+      "timestamp": "20260309224057",
+      "broadcastOffset": 2457,
+      "songDuration": 183,
+      "talkTimeOffset": 772.9,
+      "refinedOffset": 780.0,
+      "refinementDelta": 7.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1102,
+      "cumulativeSongDuration": 1355,
+      "scriptMentions": [
+        {
+          "timestamp": 775.3,
+          "matchType": "artist+title",
+          "matchedTerm": "이한철+슈퍼스타"
+        }
+      ]
+    },
+    {
+      "songTitle": "선물",
+      "artist": "멜로망스",
+      "musicId": "20170710104152419974",
+      "timestamp": "20260309224624",
+      "broadcastOffset": 2784,
+      "songDuration": 262,
+      "talkTimeOffset": 871.8,
+      "refinedOffset": 963.4,
+      "refinementDelta": 91.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1246,
+      "cumulativeSongDuration": 1538,
+      "scriptMentions": [
+        {
+          "timestamp": 914.0,
+          "matchType": "artist+title",
+          "matchedTerm": "멜로망스+선물"
+        }
+      ]
+    },
+    {
+      "songTitle": "그대 고운 내사랑(MP3) ",
+      "artist": "어반자카파(URBAN ZAKAPA)",
+      "musicId": "20200616095919847889",
+      "timestamp": "20260309225039",
+      "broadcastOffset": 3039,
+      "songDuration": 231,
+      "talkTimeOffset": 872.3,
+      "refinedOffset": 965.4,
+      "refinementDelta": 93.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1239,
+      "cumulativeSongDuration": 1800,
+      "scriptMentions": [
+        {
+          "timestamp": 916.3,
+          "matchType": "artist+title",
+          "matchedTerm": "어반자카파+그대 고운 내사랑"
+        }
+      ]
+    },
+    {
+      "songTitle": "연애(RADIO EDIT)",
+      "artist": "김현철",
+      "musicId": "0000090005d28008f079",
+      "timestamp": "20260309225700",
+      "broadcastOffset": 3420,
+      "songDuration": 206,
+      "talkTimeOffset": 971.8,
+      "refinedOffset": 967.4,
+      "refinementDelta": 4.5,
+      "matchMethod": "name",
+      "talkTimeBefore": 1389,
+      "cumulativeSongDuration": 2031,
+      "scriptMentions": [
+        {
+          "timestamp": 960.4,
+          "matchType": "artist+title",
+          "matchedTerm": "김현철+연애"
+        }
+      ]
+    },
+    {
+      "songTitle": "SHE IS",
+      "artist": "클래지콰이(Clazziquai)",
+      "musicId": "0000090005d280dce947",
+      "timestamp": "20260309230118",
+      "broadcastOffset": 3678,
+      "songDuration": 225,
+      "talkTimeOffset": 1008.2,
+      "refinedOffset": 1008.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1441,
+      "cumulativeSongDuration": 2237
+    },
+    {
+      "songTitle": "EVERYDAY (KOREAN VER.)",
+      "artist": "꽃잠 프로젝트",
+      "musicId": "20140228151155267810",
+      "timestamp": "20260309230839",
+      "broadcastOffset": 4119,
+      "songDuration": 189,
+      "talkTimeOffset": 1159.3,
+      "refinedOffset": 1175.2,
+      "refinementDelta": 15.8,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1657,
+      "cumulativeSongDuration": 2462,
+      "scriptMentions": [
+        {
+          "timestamp": 1130.8,
+          "matchType": "artist",
+          "matchedTerm": "꽃잠 프로젝트"
+        },
+        {
+          "timestamp": 1133.6,
+          "matchType": "artist",
+          "matchedTerm": "꽃잠 프로젝트"
+        }
+      ]
+    },
+    {
+      "songTitle": "에구구구",
+      "artist": "요조",
+      "musicId": "20081022113652835745",
+      "timestamp": "20260309231139",
+      "broadcastOffset": 4299,
+      "songDuration": 175,
+      "talkTimeOffset": 1159.8,
+      "refinedOffset": 1177.2,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1648,
+      "cumulativeSongDuration": 2651
+    },
+    {
+      "songTitle": "봄이 왔다",
+      "artist": "TARU",
+      "musicId": "20120217155722961740",
+      "timestamp": "20260309231430",
+      "broadcastOffset": 4470,
+      "songDuration": 208,
+      "talkTimeOffset": 1160.3,
+      "refinedOffset": 1177.2,
+      "refinementDelta": 16.8,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1644,
+      "cumulativeSongDuration": 2826
+    },
+    {
+      "songTitle": "하루하루",
+      "artist": "빅뱅",
+      "musicId": "20080821160041527944",
+      "timestamp": "20260309231924",
+      "broadcastOffset": 4764,
+      "songDuration": 256,
+      "talkTimeOffset": 1210.4,
+      "refinedOffset": 1230.8,
+      "refinementDelta": 20.3,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1730,
+      "cumulativeSongDuration": 3034
+    },
+    {
+      "songTitle": "흐르는 강물처럼",
+      "artist": "김진표",
+      "musicId": "0000090005d2807db339",
+      "timestamp": "20260309232409",
+      "broadcastOffset": 5049,
+      "songDuration": 219,
+      "talkTimeOffset": 1230.7,
+      "refinedOffset": 1232.8,
+      "refinementDelta": 2.1,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1759,
+      "cumulativeSongDuration": 3290
+    },
+    {
+      "songTitle": "기억과 추억",
+      "artist": "김태우",
+      "musicId": "20090831101423836501",
+      "timestamp": "20260309232745",
+      "broadcastOffset": 5265,
+      "songDuration": 239,
+      "talkTimeOffset": 1231.2,
+      "refinedOffset": 1234.8,
+      "refinementDelta": 3.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1756,
+      "cumulativeSongDuration": 3509
+    },
+    {
+      "songTitle": "LOVE IS...",
+      "artist": "",
+      "musicId": "20060609161042441722",
+      "timestamp": "20260309233115",
+      "broadcastOffset": 5475,
+      "songDuration": 48,
+      "talkTimeOffset": 1231.7,
+      "refinedOffset": 1236.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1727,
+      "cumulativeSongDuration": 3748
+    },
+    {
+      "songTitle": "이상의 날개",
+      "artist": "이미키",
+      "musicId": "0000090005d2800abf89",
+      "timestamp": "20260309233315",
+      "broadcastOffset": 5595,
+      "songDuration": 196,
+      "talkTimeOffset": 1258.7,
+      "refinedOffset": 1391.3,
+      "refinementDelta": 132.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1799,
+      "cumulativeSongDuration": 3796
+    },
+    {
+      "songTitle": "사랑해요",
+      "artist": "고은희Ψ이정란",
+      "musicId": "0000090005d28010e57e",
+      "timestamp": "20260309233627",
+      "broadcastOffset": 5787,
+      "songDuration": 245,
+      "talkTimeOffset": 1259.2,
+      "refinedOffset": 1393.3,
+      "refinementDelta": 134.1,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1795,
+      "cumulativeSongDuration": 3992
+    },
+    {
+      "songTitle": "이별 이야기",
+      "artist": "고은희Ψ이문세",
+      "musicId": "0000090005d280084e29",
+      "timestamp": "20260309234030",
+      "broadcastOffset": 6030,
+      "songDuration": 249,
+      "talkTimeOffset": 1259.7,
+      "refinedOffset": 1395.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1793,
+      "cumulativeSongDuration": 4237
+    },
+    {
+      "songTitle": "다시 태어나도",
+      "artist": "김돈규Ψ에스더",
+      "musicId": "0000090005d2800a7be1",
+      "timestamp": "20260309234433",
+      "broadcastOffset": 6273,
+      "songDuration": 262,
+      "talkTimeOffset": 1260.2,
+      "refinedOffset": 1395.3,
+      "refinementDelta": 135.1,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1787,
+      "cumulativeSongDuration": 4486
+    },
+    {
+      "songTitle": "고백",
+      "artist": "장나라",
+      "musicId": "0000090005d2800a1644",
+      "timestamp": "20260309235409",
+      "broadcastOffset": 6849,
+      "songDuration": 281,
+      "talkTimeOffset": 1470.0,
+      "refinedOffset": 1462.4,
+      "refinementDelta": 7.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 2101,
+      "cumulativeSongDuration": 4748,
+      "scriptMentions": [
+        {
+          "timestamp": 1458.5,
+          "matchType": "artist+title",
+          "matchedTerm": "장나라+고백"
+        }
+      ]
+    }
+  ]
+}

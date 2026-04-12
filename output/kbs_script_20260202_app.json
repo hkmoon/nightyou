@@ -1,0 +1,426 @@
+{
+  "date": "20260202",
+  "episode": "오늘의 밑줄",
+  "replayDuration": 1609,
+  "scaleFactor": 0.6906,
+  "totalSongDuration": 4831,
+  "expectedTalkDuration": 2330,
+  "insertionPoints": [
+    100.9,
+    215.6,
+    270.6,
+    452.6,
+    701.0,
+    855.6,
+    1114.9,
+    1159.5,
+    1521.5,
+    1532.0,
+    1544.9,
+    1560.9,
+    1604.2
+  ],
+  "sentenceEndPoints": [
+    81.88,
+    89.52,
+    96.63,
+    112.16,
+    116.72,
+    156.94,
+    329.7,
+    371.57,
+    389.58,
+    446.56,
+    536.36,
+    613.74,
+    735.06,
+    743.68,
+    788.29,
+    802.34,
+    921.18,
+    1114.88,
+    1163.11,
+    1296.3,
+    1304.76,
+    1309.53,
+    1355.92,
+    1399.71,
+    1404.84,
+    1410.65,
+    1415.62,
+    1488.6,
+    1498.75,
+    1531.98,
+    1548.25,
+    1558.22,
+    1594.89,
+    1604.24
+  ],
+  "songs": [
+    {
+      "songTitle": "하루 하루",
+      "artist": "타샤니",
+      "musicId": "0000090005d2800b07ef",
+      "timestamp": "20260202220249",
+      "broadcastOffset": 169,
+      "songDuration": 234,
+      "talkTimeOffset": 116.7,
+      "refinedOffset": 116.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 169,
+      "cumulativeSongDuration": 0
+    },
+    {
+      "songTitle": "GOING HOME",
+      "artist": "김윤아",
+      "musicId": "20100428163950471209",
+      "timestamp": "20260202222237",
+      "broadcastOffset": 1357,
+      "songDuration": 221,
+      "talkTimeOffset": 775.5,
+      "refinedOffset": 775.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1123,
+      "cumulativeSongDuration": 234,
+      "scriptMentions": [
+        {
+          "timestamp": 448.5,
+          "matchType": "artist+title",
+          "matchedTerm": "김윤아+고잉홈"
+        },
+        {
+          "timestamp": 458.2,
+          "matchType": "artist+title",
+          "matchedTerm": "김윤아+GOING HOME"
+        }
+      ]
+    },
+    {
+      "songTitle": "눈사람",
+      "artist": "정승환",
+      "musicId": "20180220080450266374",
+      "timestamp": "20260202222613",
+      "broadcastOffset": 1573,
+      "songDuration": 236,
+      "talkTimeOffset": 776.0,
+      "refinedOffset": 777.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1118,
+      "cumulativeSongDuration": 455,
+      "scriptMentions": [
+        {
+          "timestamp": 452.6,
+          "matchType": "artist+title",
+          "matchedTerm": "정승환+눈사람"
+        }
+      ]
+    },
+    {
+      "songTitle": "만만하니",
+      "artist": "U-KISS",
+      "musicId": "20091105174538919317",
+      "timestamp": "20260202223422",
+      "broadcastOffset": 2062,
+      "songDuration": 213,
+      "talkTimeOffset": 946.8,
+      "refinedOffset": 946.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1371,
+      "cumulativeSongDuration": 691,
+      "scriptMentions": [
+        {
+          "timestamp": 701.0,
+          "matchType": "artist+title",
+          "matchedTerm": "유키스+만만하니"
+        }
+      ]
+    },
+    {
+      "songTitle": "작은 기다림",
+      "artist": "COOL",
+      "musicId": "0000090005d280072426",
+      "timestamp": "20260202224046",
+      "broadcastOffset": 2446,
+      "songDuration": 251,
+      "talkTimeOffset": 1064.8,
+      "refinedOffset": 1064.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1542,
+      "cumulativeSongDuration": 904,
+      "scriptMentions": [
+        {
+          "timestamp": 850.4,
+          "matchType": "title",
+          "matchedTerm": "작은 기다림"
+        },
+        {
+          "timestamp": 860.4,
+          "matchType": "title",
+          "matchedTerm": "작은 기다림"
+        }
+      ]
+    },
+    {
+      "songTitle": "학창시절",
+      "artist": "이현석",
+      "musicId": "0000090005d28015d742",
+      "timestamp": "20260202224455",
+      "broadcastOffset": 2695,
+      "songDuration": 271,
+      "talkTimeOffset": 1065.3,
+      "refinedOffset": 1066.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1540,
+      "cumulativeSongDuration": 1155,
+      "scriptMentions": [
+        {
+          "timestamp": 855.6,
+          "matchType": "artist+title",
+          "matchedTerm": "이현석+학창시절"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑은 언제나 목마르다",
+      "artist": "유미",
+      "musicId": "0000090005d2800a8d7b",
+      "timestamp": "20260202225449",
+      "broadcastOffset": 3289,
+      "songDuration": 266,
+      "talkTimeOffset": 1286.5,
+      "refinedOffset": 1159.5,
+      "refinementDelta": 127.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 1863,
+      "cumulativeSongDuration": 1426,
+      "scriptMentions": [
+        {
+          "timestamp": 1104.8,
+          "matchType": "title",
+          "matchedTerm": "사랑은 언제나 목마르다"
+        },
+        {
+          "timestamp": 1110.3,
+          "matchType": "artist",
+          "matchedTerm": "유미"
+        }
+      ]
+    },
+    {
+      "songTitle": "같은 시간 속의 너",
+      "artist": "나얼",
+      "musicId": "20150203135544773348",
+      "timestamp": "20260202230146",
+      "broadcastOffset": 3706,
+      "songDuration": 250,
+      "talkTimeOffset": 1390.8,
+      "refinedOffset": 1390.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 2014,
+      "cumulativeSongDuration": 1692
+    },
+    {
+      "songTitle": "기대",
+      "artist": "나윤권",
+      "musicId": "0000090005d280ef9e22",
+      "timestamp": "20260202230836",
+      "broadcastOffset": 4116,
+      "songDuration": 276,
+      "talkTimeOffset": 1501.3,
+      "refinedOffset": 1501.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 2174,
+      "cumulativeSongDuration": 1942,
+      "scriptMentions": [
+        {
+          "timestamp": 1283.1,
+          "matchType": "artist+title",
+          "matchedTerm": "나윤권+기대"
+        }
+      ]
+    },
+    {
+      "songTitle": "동감",
+      "artist": "나윤권",
+      "musicId": "0000090005d280a8dbd4",
+      "timestamp": "20260202231315",
+      "broadcastOffset": 4395,
+      "songDuration": 227,
+      "talkTimeOffset": 1503.3,
+      "refinedOffset": 1503.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 2177,
+      "cumulativeSongDuration": 2218,
+      "scriptMentions": [
+        {
+          "timestamp": 1283.1,
+          "matchType": "artist",
+          "matchedTerm": "나윤권"
+        }
+      ]
+    },
+    {
+      "songTitle": "나였으면",
+      "artist": "나윤권",
+      "musicId": "0000090005d280a8dc52",
+      "timestamp": "20260202231724",
+      "broadcastOffset": 4644,
+      "songDuration": 260,
+      "talkTimeOffset": 1518.5,
+      "refinedOffset": 1309.5,
+      "refinementDelta": 209.0,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2199,
+      "cumulativeSongDuration": 2445,
+      "scriptMentions": [
+        {
+          "timestamp": 1283.1,
+          "matchType": "artist",
+          "matchedTerm": "나윤권"
+        }
+      ]
+    },
+    {
+      "songTitle": "TIME AFTER TIME",
+      "artist": "CYNDI LAUPER",
+      "musicId": "0000090005d2801382d8",
+      "timestamp": "20260202232321",
+      "broadcastOffset": 5001,
+      "songDuration": 237,
+      "talkTimeOffset": 1585.5,
+      "refinedOffset": 1415.6,
+      "refinementDelta": 169.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2296,
+      "cumulativeSongDuration": 2705
+    },
+    {
+      "songTitle": "LA ISLA BONITA",
+      "artist": "MADONNA",
+      "musicId": "0000090005d28014c7cb",
+      "timestamp": "20260202232718",
+      "broadcastOffset": 5238,
+      "songDuration": 241,
+      "talkTimeOffset": 1585.5,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2296,
+      "cumulativeSongDuration": 2942
+    },
+    {
+      "songTitle": "SMOOTH OPERATOR",
+      "artist": "SADE",
+      "musicId": "0000090005d2801f1057",
+      "timestamp": "20260202233112",
+      "broadcastOffset": 5472,
+      "songDuration": 256,
+      "talkTimeOffset": 1586.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2289,
+      "cumulativeSongDuration": 3183
+    },
+    {
+      "songTitle": "LOVE IS...",
+      "artist": "",
+      "musicId": "20060609161042441722",
+      "timestamp": "20260202233506",
+      "broadcastOffset": 5706,
+      "songDuration": 48,
+      "talkTimeOffset": 1586.5,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2267,
+      "cumulativeSongDuration": 3439
+    },
+    {
+      "songTitle": "넌 할 수 있어",
+      "artist": "강산에",
+      "musicId": "0000090005d2800b48b2",
+      "timestamp": "20260202233630",
+      "broadcastOffset": 5790,
+      "songDuration": 293,
+      "talkTimeOffset": 1590.4,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2303,
+      "cumulativeSongDuration": 3487
+    },
+    {
+      "songTitle": "형",
+      "artist": "노라조",
+      "musicId": "20091204103204895135",
+      "timestamp": "20260202234154",
+      "broadcastOffset": 6114,
+      "songDuration": 253,
+      "talkTimeOffset": 1609,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2334,
+      "cumulativeSongDuration": 3780
+    },
+    {
+      "songTitle": "IN MY DREAM;별을 쏘다",
+      "artist": "조장혁",
+      "musicId": "0000090005d2800a6cdb",
+      "timestamp": "20260202234603",
+      "broadcastOffset": 6363,
+      "songDuration": 330,
+      "talkTimeOffset": 1609,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2330,
+      "cumulativeSongDuration": 4033
+    },
+    {
+      "songTitle": "SUPER STAR",
+      "artist": "쥬얼리",
+      "musicId": "0000090005d280cea070",
+      "timestamp": "20260202235042",
+      "broadcastOffset": 6642,
+      "songDuration": 258,
+      "talkTimeOffset": 1609.5,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2279,
+      "cumulativeSongDuration": 4363
+    },
+    {
+      "songTitle": "촛불 하나",
+      "artist": "GOD",
+      "musicId": "0000090005d2800847d2",
+      "timestamp": "20260202235551",
+      "broadcastOffset": 6951,
+      "songDuration": 210,
+      "talkTimeOffset": 1610.0,
+      "refinedOffset": 1604,
+      "refinementDelta": 6.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 2330,
+      "cumulativeSongDuration": 4621,
+      "scriptMentions": [
+        {
+          "timestamp": 1596.1,
+          "matchType": "artist+title",
+          "matchedTerm": "GOD+촛불 하나"
+        }
+      ]
+    }
+  ]
+}

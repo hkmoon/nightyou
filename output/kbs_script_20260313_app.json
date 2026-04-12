@@ -1,0 +1,464 @@
+{
+  "date": "20260313",
+  "episode": "생각이 켜진 밤",
+  "replayDuration": 1372,
+  "scaleFactor": 0.6779,
+  "totalSongDuration": 5227,
+  "expectedTalkDuration": 2024,
+  "insertionPoints": [
+    81.2,
+    196.5,
+    355.5,
+    605.4,
+    747.9,
+    863.5,
+    939.5,
+    1260.8,
+    1272.3,
+    1284.8,
+    1297.2,
+    1303.0,
+    1359.0,
+    1366.0
+  ],
+  "sentenceEndPoints": [
+    105.4,
+    255.08,
+    258.72,
+    267.17,
+    270.78,
+    465.82,
+    479.21,
+    499.36,
+    504.82,
+    527.72,
+    592.99,
+    628.38,
+    889.18,
+    942.55,
+    949.12,
+    1069.42,
+    1074.74,
+    1080.54,
+    1132.06,
+    1158.29,
+    1176.08,
+    1180.51
+  ],
+  "songs": [
+    {
+      "songTitle": "다정히 내 이름을 부르면",
+      "artist": "경서예지Ψ전건호",
+      "musicId": "20210524120807728592",
+      "timestamp": "20260313220233",
+      "broadcastOffset": 153,
+      "songDuration": 231,
+      "talkTimeOffset": 103.7,
+      "refinedOffset": 103.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 153,
+      "cumulativeSongDuration": 0
+    },
+    {
+      "songTitle": "그때 그 순간 그대로 (그그그)(FLAC)",
+      "artist": "WSG워너비 (가야G)",
+      "musicId": "20220711300004460773",
+      "timestamp": "20260313220933",
+      "broadcastOffset": 573,
+      "songDuration": 222,
+      "talkTimeOffset": 231.8,
+      "refinedOffset": 196.5,
+      "refinementDelta": 35.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 342,
+      "cumulativeSongDuration": 231,
+      "scriptMentions": [
+        {
+          "timestamp": 201.0,
+          "matchType": "artist+title",
+          "matchedTerm": "WSG워너비+그때 그 순간 그대로"
+        }
+      ]
+    },
+    {
+      "songTitle": "행복병",
+      "artist": "김종국",
+      "musicId": "20090313160955832324",
+      "timestamp": "20260313221333",
+      "broadcastOffset": 813,
+      "songDuration": 227,
+      "talkTimeOffset": 244.0,
+      "refinedOffset": 198.5,
+      "refinementDelta": 45.5,
+      "matchMethod": "name",
+      "talkTimeBefore": 360,
+      "cumulativeSongDuration": 453,
+      "scriptMentions": [
+        {
+          "timestamp": 196.5,
+          "matchType": "artist+title",
+          "matchedTerm": "김종국+행복병"
+        }
+      ]
+    },
+    {
+      "songTitle": "내가 말했잖아(FLAC)",
+      "artist": "요조 (YOZOH)",
+      "musicId": "20230427300006479271",
+      "timestamp": "20260313221927",
+      "broadcastOffset": 1167,
+      "songDuration": 201,
+      "talkTimeOffset": 330.1,
+      "refinedOffset": 330.1,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 487,
+      "cumulativeSongDuration": 680,
+      "scriptMentions": [
+        {
+          "timestamp": 348.5,
+          "matchType": "title",
+          "matchedTerm": "내가 말했잖아"
+        }
+      ]
+    },
+    {
+      "songTitle": "이젠 잊기로 해요",
+      "artist": "여은",
+      "musicId": "20160216110538192667",
+      "timestamp": "20260313222251",
+      "broadcastOffset": 1371,
+      "songDuration": 234,
+      "talkTimeOffset": 332.2,
+      "refinedOffset": 355.5,
+      "refinementDelta": 23.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 490,
+      "cumulativeSongDuration": 881,
+      "scriptMentions": [
+        {
+          "timestamp": 351.5,
+          "matchType": "artist",
+          "matchedTerm": "여은"
+        }
+      ]
+    },
+    {
+      "songTitle": "소중한 너",
+      "artist": "박선주Ψ조규찬",
+      "musicId": "20111229160058434031",
+      "timestamp": "20260313223133",
+      "broadcastOffset": 1893,
+      "songDuration": 280,
+      "talkTimeOffset": 527.4,
+      "refinedOffset": 605.4,
+      "refinementDelta": 78.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 778,
+      "cumulativeSongDuration": 1115,
+      "scriptMentions": [
+        {
+          "timestamp": 603.8,
+          "matchType": "title",
+          "matchedTerm": "소중한 너"
+        }
+      ]
+    },
+    {
+      "songTitle": "난 너에게",
+      "artist": "샤크라",
+      "musicId": "0000090005d280084059",
+      "timestamp": "20260313223748",
+      "broadcastOffset": 2268,
+      "songDuration": 212,
+      "talkTimeOffset": 591.8,
+      "refinedOffset": 747.9,
+      "refinementDelta": 156.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 873,
+      "cumulativeSongDuration": 1395,
+      "scriptMentions": [
+        {
+          "timestamp": 740.0,
+          "matchType": "artist+title",
+          "matchedTerm": "샤크라+난 너에게"
+        },
+        {
+          "timestamp": 747.9,
+          "matchType": "artist+title",
+          "matchedTerm": "샤크라+난 너에게"
+        }
+      ]
+    },
+    {
+      "songTitle": "들리나요",
+      "artist": "정재욱",
+      "musicId": "20060526174347288213",
+      "timestamp": "20260313224121",
+      "broadcastOffset": 2481,
+      "songDuration": 237,
+      "talkTimeOffset": 592.5,
+      "refinedOffset": 749.9,
+      "refinementDelta": 157.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 874,
+      "cumulativeSongDuration": 1607,
+      "scriptMentions": [
+        {
+          "timestamp": 743.9,
+          "matchType": "artist+title",
+          "matchedTerm": "정재욱+들리나요"
+        }
+      ]
+    },
+    {
+      "songTitle": "정말로 사랑한다면",
+      "artist": "버스커 버스커",
+      "musicId": "20120719113422272127",
+      "timestamp": "20260313224721",
+      "broadcastOffset": 2841,
+      "songDuration": 253,
+      "talkTimeOffset": 675.8,
+      "refinedOffset": 863.5,
+      "refinementDelta": 187.7,
+      "matchMethod": "name",
+      "talkTimeBefore": 997,
+      "cumulativeSongDuration": 1844,
+      "scriptMentions": [
+        {
+          "timestamp": 855.9,
+          "matchType": "artist+title",
+          "matchedTerm": "버스커 버스커+정말로 사랑한다면"
+        }
+      ]
+    },
+    {
+      "songTitle": "나를 잊지 말아요",
+      "artist": "허각",
+      "musicId": "20110616140841812123",
+      "timestamp": "20260313225133",
+      "broadcastOffset": 3093,
+      "songDuration": 234,
+      "talkTimeOffset": 676.3,
+      "refinedOffset": 865.5,
+      "refinementDelta": 189.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 996,
+      "cumulativeSongDuration": 2097,
+      "scriptMentions": [
+        {
+          "timestamp": 859.6,
+          "matchType": "artist+title",
+          "matchedTerm": "허각+나를 잊지 말아요"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑합니다",
+      "artist": "TIM",
+      "musicId": "0000090005d2800915f5",
+      "timestamp": "20260313225711",
+      "broadcastOffset": 3431,
+      "songDuration": 229,
+      "talkTimeOffset": 745.7,
+      "refinedOffset": 867.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1100,
+      "cumulativeSongDuration": 2331
+    },
+    {
+      "songTitle": "미소를 띄우며 나를보낸 그모습처럼",
+      "artist": "이은하",
+      "musicId": "0000090005d28010aefa",
+      "timestamp": "20260313230154",
+      "broadcastOffset": 3714,
+      "songDuration": 217,
+      "talkTimeOffset": 782.3,
+      "refinedOffset": 939.5,
+      "refinementDelta": 157.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1154,
+      "cumulativeSongDuration": 2560,
+      "scriptMentions": [
+        {
+          "timestamp": 931.3,
+          "matchType": "title",
+          "matchedTerm": "미소를 띄우며 나를보낸 그모습처럼"
+        },
+        {
+          "timestamp": 936.6,
+          "matchType": "artist",
+          "matchedTerm": "이은하"
+        }
+      ]
+    },
+    {
+      "songTitle": "너에게 들려주고 싶은 이야기",
+      "artist": "015B",
+      "musicId": "0000090005d280136a33",
+      "timestamp": "20260313230905",
+      "broadcastOffset": 4145,
+      "songDuration": 260,
+      "talkTimeOffset": 927.3,
+      "refinedOffset": 941.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1368,
+      "cumulativeSongDuration": 2777,
+      "scriptMentions": [
+        {
+          "timestamp": 1052.4,
+          "matchType": "title",
+          "matchedTerm": "너에게 들려주고 싶은 이야기"
+        }
+      ]
+    },
+    {
+      "songTitle": "일상으로의 초대",
+      "artist": "신해철",
+      "musicId": "0000090005d280107e9f",
+      "timestamp": "20260313231317",
+      "broadcastOffset": 4397,
+      "songDuration": 321,
+      "talkTimeOffset": 927.8,
+      "refinedOffset": 1080.5,
+      "refinementDelta": 152.7,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1360,
+      "cumulativeSongDuration": 3037
+    },
+    {
+      "songTitle": "MY DESTINY",
+      "artist": "린 (LYN)",
+      "musicId": "20140510143347304671",
+      "timestamp": "20260313231812",
+      "broadcastOffset": 4692,
+      "songDuration": 231,
+      "talkTimeOffset": 928.3,
+      "refinedOffset": 1082.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1334,
+      "cumulativeSongDuration": 3358
+    },
+    {
+      "songTitle": "소외된 모두, 왼발을 한 보 앞으로!",
+      "artist": "드렁큰 타이거",
+      "musicId": "0000090005d280e4d99e",
+      "timestamp": "20260313232332",
+      "broadcastOffset": 5012,
+      "songDuration": 200,
+      "talkTimeOffset": 964.6,
+      "refinedOffset": 1180.5,
+      "refinementDelta": 215.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1423,
+      "cumulativeSongDuration": 3589
+    },
+    {
+      "songTitle": "행복했던 날들이었다",
+      "artist": "DAY6",
+      "musicId": "20181204094117785516",
+      "timestamp": "20260313233014",
+      "broadcastOffset": 5414,
+      "songDuration": 207,
+      "talkTimeOffset": 1101.5,
+      "refinedOffset": 1182.5,
+      "refinementDelta": 81.0,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1625,
+      "cumulativeSongDuration": 3789
+    },
+    {
+      "songTitle": "BUTTERFLY",
+      "artist": "러브홀릭스",
+      "musicId": "20081224114227016527",
+      "timestamp": "20260313233441",
+      "broadcastOffset": 5681,
+      "songDuration": 180,
+      "talkTimeOffset": 1142.2,
+      "refinedOffset": 1184.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1685,
+      "cumulativeSongDuration": 3996
+    },
+    {
+      "songTitle": "작은 것들을 위한 시 (BOY WITH LUV) (FEAT. HALSEY)",
+      "artist": "방탄소년단",
+      "musicId": "20190410074301058021",
+      "timestamp": "20260313234208",
+      "broadcastOffset": 6128,
+      "songDuration": 230,
+      "talkTimeOffset": 1323.2,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 1952,
+      "cumulativeSongDuration": 4176
+    },
+    {
+      "songTitle": "BREAK AWAY",
+      "artist": "BIG MAMA",
+      "musicId": "0000090005d2800a66ca",
+      "timestamp": "20260313234523",
+      "broadcastOffset": 6323,
+      "songDuration": 259,
+      "talkTimeOffset": 1323.7,
+      "refinedOffset": 1284.8,
+      "refinementDelta": 38.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1917,
+      "cumulativeSongDuration": 4406
+    },
+    {
+      "songTitle": "Ballerino",
+      "artist": "리쌍",
+      "musicId": "20070528105839519889",
+      "timestamp": "20260313235035",
+      "broadcastOffset": 6635,
+      "songDuration": 267,
+      "talkTimeOffset": 1335.4,
+      "refinedOffset": 1366.0,
+      "refinementDelta": 30.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1970,
+      "cumulativeSongDuration": 4665,
+      "scriptMentions": [
+        {
+          "timestamp": 1303.0,
+          "matchType": "artist",
+          "matchedTerm": "리쌍"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑한다는 말로도 위로가 되지 않는",
+      "artist": "브로콜리 너마저",
+      "musicId": "20101102172232485278",
+      "timestamp": "20260313235556",
+      "broadcastOffset": 6956,
+      "songDuration": 295,
+      "talkTimeOffset": 1372.0,
+      "refinedOffset": 1367,
+      "refinementDelta": 5.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 2024,
+      "cumulativeSongDuration": 4932,
+      "scriptMentions": [
+        {
+          "timestamp": 1355.5,
+          "matchType": "artist",
+          "matchedTerm": "브로콜리 너마저"
+        },
+        {
+          "timestamp": 1359.0,
+          "matchType": "title",
+          "matchedTerm": "사랑한다는 말로도 위로가 되지 않는"
+        }
+      ]
+    }
+  ]
+}

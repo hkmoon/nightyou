@@ -1,0 +1,510 @@
+{
+  "date": "20260228",
+  "episode": "밤의 여행자들",
+  "replayDuration": 1435,
+  "scaleFactor": 0.6709,
+  "totalSongDuration": 5020,
+  "expectedTalkDuration": 2139,
+  "insertionPoints": [
+    79.6,
+    244.3,
+    664.4,
+    748.0,
+    918.7,
+    1060.6,
+    1159.0,
+    1231.7,
+    1307.0,
+    1429.9
+  ],
+  "sentenceEndPoints": [
+    129.99,
+    138.82,
+    516.6,
+    544.14,
+    549.08,
+    554.49,
+    560.98,
+    576.44,
+    582.15,
+    591.06,
+    597.98,
+    781.65,
+    787.86,
+    920.42,
+    968.26,
+    976.72,
+    1136.34,
+    1186.76,
+    1205.9,
+    1341.29,
+    1381.22,
+    1387.58
+  ],
+  "songs": [
+    {
+      "songTitle": "길",
+      "artist": "GOD",
+      "musicId": "0000090005d280084882",
+      "timestamp": "20260228220224",
+      "broadcastOffset": 144,
+      "songDuration": 226,
+      "talkTimeOffset": 96.6,
+      "refinedOffset": 79.6,
+      "refinementDelta": 17.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 144,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 79.6,
+          "matchType": "artist",
+          "matchedTerm": "GOD"
+        }
+      ]
+    },
+    {
+      "songTitle": "MORE THAN WORDS",
+      "artist": "5TION",
+      "musicId": "0000090005d280085f27",
+      "timestamp": "20260228221000",
+      "broadcastOffset": 600,
+      "songDuration": 217,
+      "talkTimeOffset": 250.9,
+      "refinedOffset": 244.3,
+      "refinementDelta": 6.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 374,
+      "cumulativeSongDuration": 226,
+      "scriptMentions": [
+        {
+          "timestamp": 244.3,
+          "matchType": "artist",
+          "matchedTerm": "오션"
+        }
+      ]
+    },
+    {
+      "songTitle": "SUDDENLY",
+      "artist": "제이워크",
+      "musicId": "0000090005d280071070",
+      "timestamp": "20260228221409",
+      "broadcastOffset": 849,
+      "songDuration": 250,
+      "talkTimeOffset": 272.4,
+      "refinedOffset": 246.3,
+      "refinementDelta": 26.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 406,
+      "cumulativeSongDuration": 443,
+      "scriptMentions": [
+        {
+          "timestamp": 242.7,
+          "matchType": "artist",
+          "matchedTerm": "제이워크"
+        }
+      ]
+    },
+    {
+      "songTitle": "SO HOT",
+      "artist": "WONDER GIRLS",
+      "musicId": "20080617150515407610",
+      "timestamp": "20260228222100",
+      "broadcastOffset": 1260,
+      "songDuration": 183,
+      "talkTimeOffset": 380.4,
+      "refinedOffset": 380.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 567,
+      "cumulativeSongDuration": 693
+    },
+    {
+      "songTitle": "거울아 거울아",
+      "artist": "4MINUTE",
+      "musicId": "20110325161733082065",
+      "timestamp": "20260228222333",
+      "broadcastOffset": 1413,
+      "songDuration": 216,
+      "talkTimeOffset": 380.9,
+      "refinedOffset": 382.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 537,
+      "cumulativeSongDuration": 876
+    },
+    {
+      "songTitle": "GEE",
+      "artist": "소녀시대",
+      "musicId": "20100402134713367739",
+      "timestamp": "20260228223203",
+      "broadcastOffset": 1923,
+      "songDuration": 200,
+      "talkTimeOffset": 557.5,
+      "refinedOffset": 664.4,
+      "refinementDelta": 106.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 831,
+      "cumulativeSongDuration": 1092,
+      "scriptMentions": [
+        {
+          "timestamp": 664.4,
+          "matchType": "artist",
+          "matchedTerm": "소녀시대"
+        }
+      ]
+    },
+    {
+      "songTitle": "가지 말라고",
+      "artist": "진주",
+      "musicId": "0000090005d2800b1154",
+      "timestamp": "20260228223605",
+      "broadcastOffset": 2165,
+      "songDuration": 0,
+      "talkTimeOffset": 585.7,
+      "refinedOffset": 748.0,
+      "refinementDelta": 162.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 873,
+      "cumulativeSongDuration": 1292,
+      "scriptMentions": [
+        {
+          "timestamp": 628.2,
+          "matchType": "artist",
+          "matchedTerm": "진주"
+        },
+        {
+          "timestamp": 744.0,
+          "matchType": "artist+title",
+          "matchedTerm": "진주+가지 말라고"
+        },
+        {
+          "timestamp": 751.5,
+          "matchType": "artist+title",
+          "matchedTerm": "진주+가지 말라고"
+        }
+      ]
+    },
+    {
+      "songTitle": "천사의 시",
+      "artist": "양파",
+      "musicId": "0000090005d2800abaf9",
+      "timestamp": "20260228224027",
+      "broadcastOffset": 2427,
+      "songDuration": 251,
+      "talkTimeOffset": 761.4,
+      "refinedOffset": 750.0,
+      "refinementDelta": 11.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 1135,
+      "cumulativeSongDuration": 1292,
+      "scriptMentions": [
+        {
+          "timestamp": 748.0,
+          "matchType": "artist",
+          "matchedTerm": "양파"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑하게 될 줄 알았어",
+      "artist": "신효범",
+      "musicId": "20060403164455311023",
+      "timestamp": "20260228224611",
+      "broadcastOffset": 2771,
+      "songDuration": 240,
+      "talkTimeOffset": 823.8,
+      "refinedOffset": 823.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1228,
+      "cumulativeSongDuration": 1543,
+      "scriptMentions": [
+        {
+          "timestamp": 863.4,
+          "matchType": "title",
+          "matchedTerm": "사랑하게 될 줄 알았어"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑합니다",
+      "artist": "TIM",
+      "musicId": "0000090005d2800915f5",
+      "timestamp": "20260228225020",
+      "broadcastOffset": 3020,
+      "songDuration": 229,
+      "talkTimeOffset": 829.9,
+      "refinedOffset": 829.9,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1237,
+      "cumulativeSongDuration": 1783
+    },
+    {
+      "songTitle": "기억속으로",
+      "artist": "이은미",
+      "musicId": "0000090005d28010bc70",
+      "timestamp": "20260228225618",
+      "broadcastOffset": 3378,
+      "songDuration": 274,
+      "talkTimeOffset": 916.4,
+      "refinedOffset": 918.7,
+      "refinementDelta": 2.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1366,
+      "cumulativeSongDuration": 2012,
+      "scriptMentions": [
+        {
+          "timestamp": 916.8,
+          "matchType": "artist+title",
+          "matchedTerm": "이은미+기억속으로"
+        }
+      ]
+    },
+    {
+      "songTitle": "커플",
+      "artist": "젝스키스",
+      "musicId": "0000090005d2800b374d",
+      "timestamp": "20260228230138",
+      "broadcastOffset": 3698,
+      "songDuration": 248,
+      "talkTimeOffset": 947.3,
+      "refinedOffset": 947.3,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1412,
+      "cumulativeSongDuration": 2286,
+      "scriptMentions": [
+        {
+          "timestamp": 961.6,
+          "matchType": "artist+title",
+          "matchedTerm": "젝스키스+커플"
+        }
+      ]
+    },
+    {
+      "songTitle": "치카치카",
+      "artist": "박정현",
+      "musicId": "20090309113126179179",
+      "timestamp": "20260228230744",
+      "broadcastOffset": 4064,
+      "songDuration": 232,
+      "talkTimeOffset": 1026.4,
+      "refinedOffset": 1060.6,
+      "refinementDelta": 34.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 1530,
+      "cumulativeSongDuration": 2534,
+      "scriptMentions": [
+        {
+          "timestamp": 1060.6,
+          "matchType": "artist+title",
+          "matchedTerm": "박정현+치카치카"
+        }
+      ]
+    },
+    {
+      "songTitle": "DASH",
+      "artist": "백지영",
+      "musicId": "0000090005d2800ab16e",
+      "timestamp": "20260228231311",
+      "broadcastOffset": 4391,
+      "songDuration": 224,
+      "talkTimeOffset": 1090.2,
+      "refinedOffset": 1159.0,
+      "refinementDelta": 68.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 1625,
+      "cumulativeSongDuration": 2766,
+      "scriptMentions": [
+        {
+          "timestamp": 1153.4,
+          "matchType": "artist",
+          "matchedTerm": "백지영"
+        },
+        {
+          "timestamp": 1159.0,
+          "matchType": "artist",
+          "matchedTerm": "백지영"
+        }
+      ]
+    },
+    {
+      "songTitle": "유혹의 소나타",
+      "artist": "IVY",
+      "musicId": "20070308104657842720",
+      "timestamp": "20260228231629",
+      "broadcastOffset": 4589,
+      "songDuration": 205,
+      "talkTimeOffset": 1090.7,
+      "refinedOffset": 1161.0,
+      "refinementDelta": 70.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1599,
+      "cumulativeSongDuration": 2990,
+      "scriptMentions": [
+        {
+          "timestamp": 1154.8,
+          "matchType": "artist",
+          "matchedTerm": "아이비"
+        }
+      ]
+    },
+    {
+      "songTitle": "NEVER ENDING STORY (MR)",
+      "artist": "부활",
+      "musicId": "20051118215232689640",
+      "timestamp": "20260228232129",
+      "broadcastOffset": 4889,
+      "songDuration": 0,
+      "talkTimeOffset": 1136.5,
+      "refinedOffset": 1231.7,
+      "refinementDelta": 95.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1694,
+      "cumulativeSongDuration": 3195,
+      "scriptMentions": [
+        {
+          "timestamp": 1227.5,
+          "matchType": "artist",
+          "matchedTerm": "부활"
+        },
+        {
+          "timestamp": 1231.7,
+          "matchType": "artist",
+          "matchedTerm": "부활"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑할수록",
+      "artist": "부활",
+      "musicId": "0000090005d2800b873e",
+      "timestamp": "20260228232541",
+      "broadcastOffset": 5141,
+      "songDuration": 277,
+      "talkTimeOffset": 1305.5,
+      "refinedOffset": 1233.7,
+      "refinementDelta": 71.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 1946,
+      "cumulativeSongDuration": 3195,
+      "scriptMentions": [
+        {
+          "timestamp": 1227.5,
+          "matchType": "artist",
+          "matchedTerm": "부활"
+        },
+        {
+          "timestamp": 1231.7,
+          "matchType": "artist",
+          "matchedTerm": "부활"
+        },
+        {
+          "timestamp": 1236.0,
+          "matchType": "title",
+          "matchedTerm": "사랑할수록"
+        }
+      ]
+    },
+    {
+      "songTitle": "비밀",
+      "artist": "박완규Ψ부활",
+      "musicId": "20110119113503256940",
+      "timestamp": "20260228232938",
+      "broadcastOffset": 5378,
+      "songDuration": 277,
+      "talkTimeOffset": 1306.0,
+      "refinedOffset": 1306.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1906,
+      "cumulativeSongDuration": 3472
+    },
+    {
+      "songTitle": "BLUE EYES",
+      "artist": "COOL",
+      "musicId": "0000090005d2807dabd5",
+      "timestamp": "20260228233602",
+      "broadcastOffset": 5762,
+      "songDuration": 244,
+      "talkTimeOffset": 1350.5,
+      "refinedOffset": 1350.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 2013,
+      "cumulativeSongDuration": 3749
+    },
+    {
+      "songTitle": "GOOD TIME",
+      "artist": "CLEO",
+      "musicId": "0000090005d2800b3f4b",
+      "timestamp": "20260228233932",
+      "broadcastOffset": 5972,
+      "songDuration": 206,
+      "talkTimeOffset": 1351.0,
+      "refinedOffset": 1352.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1979,
+      "cumulativeSongDuration": 3993
+    },
+    {
+      "songTitle": "또 다른 시작",
+      "artist": "서지원",
+      "musicId": "0000090005d28015d2a3",
+      "timestamp": "20260228234332",
+      "broadcastOffset": 6212,
+      "songDuration": 247,
+      "talkTimeOffset": 1351.5,
+      "refinedOffset": 1307.0,
+      "refinementDelta": 44.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 2013,
+      "cumulativeSongDuration": 4199,
+      "scriptMentions": [
+        {
+          "timestamp": 1307.0,
+          "matchType": "artist+title",
+          "matchedTerm": "서지원+또 다른 시작"
+        }
+      ]
+    },
+    {
+      "songTitle": "끝이 아니기를",
+      "artist": "솔리드",
+      "musicId": "0000090005d2801323dc",
+      "timestamp": "20260228234847",
+      "broadcastOffset": 6527,
+      "songDuration": 296,
+      "talkTimeOffset": 1396.1,
+      "refinedOffset": 1429.9,
+      "refinementDelta": 33.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 2081,
+      "cumulativeSongDuration": 4446,
+      "scriptMentions": [
+        {
+          "timestamp": 1397.3,
+          "matchType": "artist+title",
+          "matchedTerm": "솔리드+끝이 아니기를"
+        }
+      ]
+    },
+    {
+      "songTitle": "난 끝난건가요",
+      "artist": "김현철",
+      "musicId": "0000090005d2800b0fdc",
+      "timestamp": "20260228235441",
+      "broadcastOffset": 6881,
+      "songDuration": 278,
+      "talkTimeOffset": 1435.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2139,
+      "cumulativeSongDuration": 4742
+    }
+  ]
+}

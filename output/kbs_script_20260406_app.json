@@ -1,0 +1,462 @@
+{
+  "date": "20260406",
+  "episode": "오늘의 밑줄",
+  "replayDuration": 1619,
+  "scaleFactor": 0.7765,
+  "totalSongDuration": 5001,
+  "expectedTalkDuration": 2085,
+  "insertionPoints": [
+    20.6,
+    210.9,
+    277.0,
+    337.4,
+    619.0,
+    848.3,
+    1541.5,
+    1552.0,
+    1565.0,
+    1581.0,
+    1610.9
+  ],
+  "sentenceEndPoints": [
+    20.56,
+    33.78,
+    39.36,
+    124.68,
+    136.33,
+    423.35,
+    450.4,
+    459.67,
+    473.11,
+    480.94,
+    488.84,
+    569.18,
+    577.84,
+    583.5,
+    592.44,
+    600.86,
+    603.67,
+    610.43,
+    615.19,
+    619.0,
+    629.68,
+    738.86,
+    771.7,
+    790.86,
+    796.36,
+    818.73,
+    877.08,
+    899.77,
+    912.79,
+    927.38,
+    935.65,
+    958.8,
+    1002.29,
+    1008.2,
+    1089.48,
+    1094.09,
+    1427.84,
+    1438.6,
+    1447.79
+  ],
+  "songs": [
+    {
+      "songTitle": "너에게 들려주고 싶은 이야기",
+      "artist": "015B",
+      "musicId": "0000090005d280136a33",
+      "timestamp": "20260406220202",
+      "broadcastOffset": 122,
+      "songDuration": 260,
+      "talkTimeOffset": 94.7,
+      "refinedOffset": 94.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 122,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 97.2,
+          "matchType": "title",
+          "matchedTerm": "너에게 들려주고 싶은 이야기"
+        },
+        {
+          "timestamp": 101.7,
+          "matchType": "artist",
+          "matchedTerm": "015B"
+        }
+      ]
+    },
+    {
+      "songTitle": "이밤의 끝을 잡고",
+      "artist": "솔리드",
+      "musicId": "0000090005d2800b42d4",
+      "timestamp": "20260406221408",
+      "broadcastOffset": 848,
+      "songDuration": 302,
+      "talkTimeOffset": 456.6,
+      "refinedOffset": 456.6,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 588,
+      "cumulativeSongDuration": 260,
+      "scriptMentions": [
+        {
+          "timestamp": 210.9,
+          "matchType": "artist+title",
+          "matchedTerm": "솔리드+이밤의 끝을 잡고"
+        }
+      ]
+    },
+    {
+      "songTitle": "1994년 어느 늦은 밤",
+      "artist": "장혜진",
+      "musicId": "0000090005d28008a0f6",
+      "timestamp": "20260406222120",
+      "broadcastOffset": 1280,
+      "songDuration": 240,
+      "talkTimeOffset": 557.5,
+      "refinedOffset": 557.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 718,
+      "cumulativeSongDuration": 562,
+      "scriptMentions": [
+        {
+          "timestamp": 330.0,
+          "matchType": "artist+title",
+          "matchedTerm": "장혜진+1994년 어느 늦은 밤"
+        },
+        {
+          "timestamp": 344.8,
+          "matchType": "artist+title",
+          "matchedTerm": "장혜진+1994년 어느 늦은 밤"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑은 늘 도망가",
+      "artist": "이문세",
+      "musicId": "20101027200608375726",
+      "timestamp": "20260406222517",
+      "broadcastOffset": 1517,
+      "songDuration": 237,
+      "talkTimeOffset": 558.0,
+      "refinedOffset": 559.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 715,
+      "cumulativeSongDuration": 802,
+      "scriptMentions": [
+        {
+          "timestamp": 337.4,
+          "matchType": "artist+title",
+          "matchedTerm": "이문세+사랑은 늘 도망가"
+        }
+      ]
+    },
+    {
+      "songTitle": "화분",
+      "artist": "ALEX",
+      "musicId": "20080625115310668154",
+      "timestamp": "20260406223356",
+      "broadcastOffset": 2036,
+      "songDuration": 265,
+      "talkTimeOffset": 774.2,
+      "refinedOffset": 619.0,
+      "refinementDelta": 155.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 997,
+      "cumulativeSongDuration": 1039,
+      "scriptMentions": [
+        {
+          "timestamp": 626.9,
+          "matchType": "artist+title",
+          "matchedTerm": "알렉스+화분"
+        }
+      ]
+    },
+    {
+      "songTitle": "긴 하루",
+      "artist": "이승철",
+      "musicId": "0000090005d2807db039",
+      "timestamp": "20260406224126",
+      "broadcastOffset": 2486,
+      "songDuration": 227,
+      "talkTimeOffset": 917.8,
+      "refinedOffset": 848.3,
+      "refinementDelta": 69.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1182,
+      "cumulativeSongDuration": 1304,
+      "scriptMentions": [
+        {
+          "timestamp": 842.9,
+          "matchType": "artist+title",
+          "matchedTerm": "이승철+긴 하루"
+        },
+        {
+          "timestamp": 853.8,
+          "matchType": "artist+title",
+          "matchedTerm": "이승철+긴 하루"
+        }
+      ]
+    },
+    {
+      "songTitle": "미안해요",
+      "artist": "거미",
+      "musicId": "20080320103116344255",
+      "timestamp": "20260406224508",
+      "broadcastOffset": 2708,
+      "songDuration": 224,
+      "talkTimeOffset": 918.3,
+      "refinedOffset": 850.3,
+      "refinementDelta": 68.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1177,
+      "cumulativeSongDuration": 1531,
+      "scriptMentions": [
+        {
+          "timestamp": 848.3,
+          "matchType": "artist+title",
+          "matchedTerm": "거미+미안해요"
+        }
+      ]
+    },
+    {
+      "songTitle": "봄 눈",
+      "artist": "박지윤",
+      "musicId": "20090430184721050372",
+      "timestamp": "20260406225450",
+      "broadcastOffset": 3290,
+      "songDuration": 211,
+      "talkTimeOffset": 1191.9,
+      "refinedOffset": 1191.9,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1535,
+      "cumulativeSongDuration": 1755,
+      "scriptMentions": [
+        {
+          "timestamp": 1153.5,
+          "matchType": "artist+title",
+          "matchedTerm": "박지윤+봄 눈"
+        }
+      ]
+    },
+    {
+      "songTitle": "LEMON TREE",
+      "artist": "박혜경",
+      "musicId": "20080514163050553428",
+      "timestamp": "20260406230102",
+      "broadcastOffset": 3662,
+      "songDuration": 195,
+      "talkTimeOffset": 1316.9,
+      "refinedOffset": 1316.9,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1696,
+      "cumulativeSongDuration": 1966,
+      "scriptMentions": [
+        {
+          "timestamp": 1202.7,
+          "matchType": "artist",
+          "matchedTerm": "박혜경"
+        }
+      ]
+    },
+    {
+      "songTitle": "소나무",
+      "artist": "BOBBY KIM",
+      "musicId": "20090112114856247273",
+      "timestamp": "20260406230705",
+      "broadcastOffset": 4025,
+      "songDuration": 267,
+      "talkTimeOffset": 1447.4,
+      "refinedOffset": 1552.0,
+      "refinementDelta": 104.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1864,
+      "cumulativeSongDuration": 2161,
+      "scriptMentions": [
+        {
+          "timestamp": 1293.7,
+          "matchType": "title",
+          "matchedTerm": "소나무"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑 그 놈",
+      "artist": "BOBBY KIM",
+      "musicId": "20090112113351960725",
+      "timestamp": "20260406231105",
+      "broadcastOffset": 4265,
+      "songDuration": 269,
+      "talkTimeOffset": 1447.9,
+      "refinedOffset": 1554.0,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1837,
+      "cumulativeSongDuration": 2428
+    },
+    {
+      "songTitle": "고래의 꿈(FALLING IN LOVE AGAIN)",
+      "artist": "바비킴",
+      "musicId": "0000090005d2808341b9",
+      "timestamp": "20260406231532",
+      "broadcastOffset": 4532,
+      "songDuration": 246,
+      "talkTimeOffset": 1448.4,
+      "refinedOffset": 1447.8,
+      "refinementDelta": 0.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1835,
+      "cumulativeSongDuration": 2697,
+      "scriptMentions": [
+        {
+          "timestamp": 1293.7,
+          "matchType": "artist",
+          "matchedTerm": "바비킴"
+        },
+        {
+          "timestamp": 1296.1,
+          "matchType": "artist",
+          "matchedTerm": "바비킴"
+        }
+      ]
+    },
+    {
+      "songTitle": "나무(영화 삽입 VERSION)",
+      "artist": "김광석 프로젝트 밴드",
+      "musicId": "0000090005d2800b06a6",
+      "timestamp": "20260406232123",
+      "broadcastOffset": 4883,
+      "songDuration": 248,
+      "talkTimeOffset": 1506.4,
+      "refinedOffset": 1554.0,
+      "refinementDelta": 47.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1940,
+      "cumulativeSongDuration": 2943
+    },
+    {
+      "songTitle": "두바퀴로 가는 자동차",
+      "artist": "김광석",
+      "musicId": "0000090005d28015c15e",
+      "timestamp": "20260406232558",
+      "broadcastOffset": 5158,
+      "songDuration": 195,
+      "talkTimeOffset": 1527.4,
+      "refinedOffset": 1556.0,
+      "refinementDelta": 28.6,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1967,
+      "cumulativeSongDuration": 3191
+    },
+    {
+      "songTitle": "기차와 소나무",
+      "artist": "이규석",
+      "musicId": "0000090005d28010f1a5",
+      "timestamp": "20260406232911",
+      "broadcastOffset": 5351,
+      "songDuration": 227,
+      "talkTimeOffset": 1527.9,
+      "refinedOffset": 1558.0,
+      "refinementDelta": 30.1,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1965,
+      "cumulativeSongDuration": 3386
+    },
+    {
+      "songTitle": "비밀의 화원",
+      "artist": "이상은",
+      "musicId": "0000090005d2800a63e8",
+      "timestamp": "20260406233411",
+      "broadcastOffset": 5651,
+      "songDuration": 249,
+      "talkTimeOffset": 1582.5,
+      "refinedOffset": 1565.0,
+      "refinementDelta": 17.5,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2038,
+      "cumulativeSongDuration": 3613
+    },
+    {
+      "songTitle": "꿍따리 샤바라",
+      "artist": "아이유(IU)",
+      "musicId": "20140522172408004757",
+      "timestamp": "20260406233753",
+      "broadcastOffset": 5873,
+      "songDuration": 228,
+      "talkTimeOffset": 1583.0,
+      "refinedOffset": 1567.0,
+      "refinementDelta": 16.0,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2011,
+      "cumulativeSongDuration": 3862
+    },
+    {
+      "songTitle": "Love Letter(FLAC)",
+      "artist": "볼빨간 사춘기",
+      "musicId": "20221114300005280991",
+      "timestamp": "20260406234140",
+      "broadcastOffset": 6100,
+      "songDuration": 190,
+      "talkTimeOffset": 1583.5,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2010,
+      "cumulativeSongDuration": 4090
+    },
+    {
+      "songTitle": "정원 (FROM \" 8월의 크리스마스\")",
+      "artist": "러브홀릭",
+      "musicId": "20090818122132001846",
+      "timestamp": "20260406234511",
+      "broadcastOffset": 6311,
+      "songDuration": 283,
+      "talkTimeOffset": 1584.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2031,
+      "cumulativeSongDuration": 4280
+    },
+    {
+      "songTitle": "후라이의 꿈",
+      "artist": "AKMU (악뮤)",
+      "musicId": "20230818300007288375",
+      "timestamp": "20260406235016",
+      "broadcastOffset": 6616,
+      "songDuration": 205,
+      "talkTimeOffset": 1594.2,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2053,
+      "cumulativeSongDuration": 4563,
+      "scriptMentions": [
+        {
+          "timestamp": 1581.0,
+          "matchType": "title",
+          "matchedTerm": "후라이의 꿈"
+        }
+      ]
+    },
+    {
+      "songTitle": "잊었니",
+      "artist": "H",
+      "musicId": "0000090005d280091079",
+      "timestamp": "20260406235413",
+      "broadcastOffset": 6853,
+      "songDuration": 233,
+      "talkTimeOffset": 1619.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 2085,
+      "cumulativeSongDuration": 4768
+    }
+  ]
+}

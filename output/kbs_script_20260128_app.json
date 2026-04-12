@@ -1,0 +1,472 @@
+{
+  "date": "20260128",
+  "episode": "생각이 켜진 밤",
+  "replayDuration": 1574,
+  "scaleFactor": 0.6192,
+  "totalSongDuration": 4607,
+  "expectedTalkDuration": 2542,
+  "insertionPoints": [
+    93.1,
+    142.9,
+    202.8,
+    379.9,
+    806.5,
+    1069.5,
+    1468.0,
+    1481.3,
+    1492.2,
+    1504.7,
+    1566.2
+  ],
+  "sentenceEndPoints": [
+    62.9,
+    67.51,
+    77.25,
+    154.44,
+    315.21,
+    391.69,
+    396.25,
+    509.72,
+    514.32,
+    520.46,
+    544.26,
+    572.92,
+    600.96,
+    677.41,
+    684.6,
+    769.44,
+    773.69,
+    800.47,
+    813.82,
+    857.3,
+    863.7,
+    867.96,
+    874.49,
+    1063.23,
+    1217.79,
+    1224.23,
+    1228.6,
+    1343.7,
+    1348.42,
+    1354.04
+  ],
+  "songs": [
+    {
+      "songTitle": "나의 하루",
+      "artist": "박정현",
+      "musicId": "0000090005d2800aacbe",
+      "timestamp": "20260128220223",
+      "broadcastOffset": 143,
+      "songDuration": 247,
+      "talkTimeOffset": 88.5,
+      "refinedOffset": 93.1,
+      "refinementDelta": 4.5,
+      "matchMethod": "name",
+      "talkTimeBefore": 143,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 93.1,
+          "matchType": "artist+title",
+          "matchedTerm": "박정현+나의 하루"
+        }
+      ]
+    },
+    {
+      "songTitle": "애송이의 사랑",
+      "artist": "양파",
+      "musicId": "0000090005d280834195",
+      "timestamp": "20260128221029",
+      "broadcastOffset": 629,
+      "songDuration": 219,
+      "talkTimeOffset": 236.5,
+      "refinedOffset": 202.8,
+      "refinementDelta": 33.7,
+      "matchMethod": "name",
+      "talkTimeBefore": 382,
+      "cumulativeSongDuration": 247,
+      "scriptMentions": [
+        {
+          "timestamp": 202.8,
+          "matchType": "artist+title",
+          "matchedTerm": "양파+애송이의 사랑"
+        }
+      ]
+    },
+    {
+      "songTitle": "고백",
+      "artist": "장나라",
+      "musicId": "0000090005d280084c13",
+      "timestamp": "20260128221332",
+      "broadcastOffset": 812,
+      "songDuration": 281,
+      "talkTimeOffset": 237.0,
+      "refinedOffset": 204.8,
+      "refinementDelta": 32.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 346,
+      "cumulativeSongDuration": 466,
+      "scriptMentions": [
+        {
+          "timestamp": 202.8,
+          "matchType": "artist+title",
+          "matchedTerm": "장나라+고백"
+        }
+      ]
+    },
+    {
+      "songTitle": "기억의 습작",
+      "artist": "전람회",
+      "musicId": "0000090005d2800905de",
+      "timestamp": "20260128222142",
+      "broadcastOffset": 1302,
+      "songDuration": 0,
+      "talkTimeOffset": 343.7,
+      "refinedOffset": 379.9,
+      "refinementDelta": 36.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 555,
+      "cumulativeSongDuration": 747,
+      "scriptMentions": [
+        {
+          "timestamp": 374.3,
+          "matchType": "artist+title",
+          "matchedTerm": "전람회+기억의 습작"
+        },
+        {
+          "timestamp": 387.0,
+          "matchType": "artist",
+          "matchedTerm": "전람회"
+        }
+      ]
+    },
+    {
+      "songTitle": "그리워 그리워",
+      "artist": "노을",
+      "musicId": "20111019113941260231",
+      "timestamp": "20260128222645",
+      "broadcastOffset": 1605,
+      "songDuration": 231,
+      "talkTimeOffset": 531.3,
+      "refinedOffset": 381.9,
+      "refinementDelta": 149.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 858,
+      "cumulativeSongDuration": 747,
+      "scriptMentions": [
+        {
+          "timestamp": 379.9,
+          "matchType": "artist+title",
+          "matchedTerm": "노을+그리워 그리워"
+        }
+      ]
+    },
+    {
+      "songTitle": "눈물",
+      "artist": "리아(RIAA)",
+      "musicId": "0000090005d2800b0039",
+      "timestamp": "20260128223506",
+      "broadcastOffset": 2106,
+      "songDuration": 256,
+      "talkTimeOffset": 698.5,
+      "refinedOffset": 698.5,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1128,
+      "cumulativeSongDuration": 978,
+      "scriptMentions": [
+        {
+          "timestamp": 276.6,
+          "matchType": "artist",
+          "matchedTerm": "리아"
+        },
+        {
+          "timestamp": 648.0,
+          "matchType": "artist+title",
+          "matchedTerm": "리아+눈물"
+        },
+        {
+          "timestamp": 730.8,
+          "matchType": "artist",
+          "matchedTerm": "리아"
+        }
+      ]
+    },
+    {
+      "songTitle": "물고기자리",
+      "artist": "이안",
+      "musicId": "0000090005d2807dae4b",
+      "timestamp": "20260128224127",
+      "broadcastOffset": 2487,
+      "songDuration": 248,
+      "talkTimeOffset": 775.9,
+      "refinedOffset": 775.9,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1253,
+      "cumulativeSongDuration": 1234,
+      "scriptMentions": [
+        {
+          "timestamp": 343.4,
+          "matchType": "artist",
+          "matchedTerm": "이안"
+        },
+        {
+          "timestamp": 810.7,
+          "matchType": "title",
+          "matchedTerm": "물고기자리"
+        }
+      ]
+    },
+    {
+      "songTitle": "인연 (동녘바람)",
+      "artist": "이선희",
+      "musicId": "0000090005d280d2ffd1",
+      "timestamp": "20260128224530",
+      "broadcastOffset": 2730,
+      "songDuration": 263,
+      "talkTimeOffset": 776.4,
+      "refinedOffset": 806.5,
+      "refinementDelta": 30.2,
+      "matchMethod": "name",
+      "talkTimeBefore": 1248,
+      "cumulativeSongDuration": 1482,
+      "scriptMentions": [
+        {
+          "timestamp": 806.5,
+          "matchType": "artist+title",
+          "matchedTerm": "이선희+인연"
+        }
+      ]
+    },
+    {
+      "songTitle": "눈물샤워",
+      "artist": "배치기",
+      "musicId": "20130108101050857340",
+      "timestamp": "20260128225506",
+      "broadcastOffset": 3306,
+      "songDuration": 233,
+      "talkTimeOffset": 966.6,
+      "refinedOffset": 1069.5,
+      "refinementDelta": 102.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 1561,
+      "cumulativeSongDuration": 1745,
+      "scriptMentions": [
+        {
+          "timestamp": 1020.1,
+          "matchType": "artist+title",
+          "matchedTerm": "배치기+눈물샤워"
+        }
+      ]
+    },
+    {
+      "songTitle": "사건의 지평선",
+      "artist": "윤하(Younha)",
+      "musicId": "20220329300003896256",
+      "timestamp": "20260128230103",
+      "broadcastOffset": 3663,
+      "songDuration": 300,
+      "talkTimeOffset": 1043.3,
+      "refinedOffset": 1071.5,
+      "refinementDelta": 28.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1685,
+      "cumulativeSongDuration": 1978,
+      "scriptMentions": [
+        {
+          "timestamp": 1069.5,
+          "matchType": "artist+title",
+          "matchedTerm": "윤하+사건의 지평선"
+        }
+      ]
+    },
+    {
+      "songTitle": "털어버리자 (Feat. 하현상)",
+      "artist": "유다빈밴드",
+      "musicId": "20240624300009301101",
+      "timestamp": "20260128231010",
+      "broadcastOffset": 4210,
+      "songDuration": 210,
+      "talkTimeOffset": 1196.3,
+      "refinedOffset": 1228.6,
+      "refinementDelta": 32.3,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1932,
+      "cumulativeSongDuration": 2278,
+      "scriptMentions": [
+        {
+          "timestamp": 1193.0,
+          "matchType": "artist+title",
+          "matchedTerm": "유다빈밴드+털어버리자"
+        },
+        {
+          "timestamp": 1196.2,
+          "matchType": "artist",
+          "matchedTerm": "유다빈밴드"
+        }
+      ]
+    },
+    {
+      "songTitle": "조금씩 천천히 너에게",
+      "artist": "노리플라이ΨTARU",
+      "musicId": "20090402110941129824",
+      "timestamp": "20260128231307",
+      "broadcastOffset": 4387,
+      "songDuration": 253,
+      "talkTimeOffset": 1196.8,
+      "refinedOffset": 1230.6,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1899,
+      "cumulativeSongDuration": 2488
+    },
+    {
+      "songTitle": "LOVEHOLIC",
+      "artist": "러브홀릭",
+      "musicId": "0000090005d280092138",
+      "timestamp": "20260128231716",
+      "broadcastOffset": 4636,
+      "songDuration": 219,
+      "talkTimeOffset": 1197.3,
+      "refinedOffset": 1230.6,
+      "refinementDelta": 33.3,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1895,
+      "cumulativeSongDuration": 2741
+    },
+    {
+      "songTitle": "LOVE IS...",
+      "artist": "",
+      "musicId": "20060609161042441722",
+      "timestamp": "20260128232058",
+      "broadcastOffset": 4858,
+      "songDuration": 48,
+      "talkTimeOffset": 1197.8,
+      "refinedOffset": 1232.6,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1898,
+      "cumulativeSongDuration": 2960
+    },
+    {
+      "songTitle": "오늘 하루",
+      "artist": "강산에",
+      "musicId": "20160715160141343408",
+      "timestamp": "20260128232258",
+      "broadcastOffset": 4978,
+      "songDuration": 203,
+      "talkTimeOffset": 1219.8,
+      "refinedOffset": 1234.6,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1970,
+      "cumulativeSongDuration": 3008
+    },
+    {
+      "songTitle": "삐에로는 우릴 보고 웃지",
+      "artist": "김완선",
+      "musicId": "20170420094157956613",
+      "timestamp": "20260128232640",
+      "broadcastOffset": 5200,
+      "songDuration": 197,
+      "talkTimeOffset": 1231.6,
+      "refinedOffset": 1348.4,
+      "refinementDelta": 116.8,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1989,
+      "cumulativeSongDuration": 3211
+    },
+    {
+      "songTitle": "보고싶은 얼굴",
+      "artist": "민해경",
+      "musicId": "0000090005d28010c750",
+      "timestamp": "20260128232958",
+      "broadcastOffset": 5398,
+      "songDuration": 231,
+      "talkTimeOffset": 1232.2,
+      "refinedOffset": 1350.4,
+      "refinementDelta": 118.2,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 1990,
+      "cumulativeSongDuration": 3408
+    },
+    {
+      "songTitle": "고양이",
+      "artist": "시인과 촌장",
+      "musicId": "0000090005d28013bdf0",
+      "timestamp": "20260128233452",
+      "broadcastOffset": 5692,
+      "songDuration": 0,
+      "talkTimeOffset": 1271.2,
+      "refinedOffset": 1496.1,
+      "refinementDelta": 224.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2053,
+      "cumulativeSongDuration": 3639
+    },
+    {
+      "songTitle": "꿈의 대화",
+      "artist": "이범용Ψ한명훈",
+      "musicId": "0000090005d2800aa036",
+      "timestamp": "20260128234040",
+      "broadcastOffset": 6040,
+      "songDuration": 242,
+      "talkTimeOffset": 1486.7,
+      "refinedOffset": 1498.1,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 2401,
+      "cumulativeSongDuration": 3639
+    },
+    {
+      "songTitle": "일어나",
+      "artist": "김광석",
+      "musicId": "20060706140002781461",
+      "timestamp": "20260128234508",
+      "broadcastOffset": 6308,
+      "songDuration": 271,
+      "talkTimeOffset": 1502.8,
+      "refinedOffset": 1498.1,
+      "refinementDelta": 4.7,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2427,
+      "cumulativeSongDuration": 3881
+    },
+    {
+      "songTitle": "먼지가 되어",
+      "artist": "이윤수",
+      "musicId": "0000090005d28009a2ab",
+      "timestamp": "20260128235002",
+      "broadcastOffset": 6602,
+      "songDuration": 232,
+      "talkTimeOffset": 1517.0,
+      "refinedOffset": 1500.1,
+      "refinementDelta": 16.9,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2450,
+      "cumulativeSongDuration": 4152
+    },
+    {
+      "songTitle": "너에게 난 나에게 넌",
+      "artist": "자전거 탄 풍경",
+      "musicId": "0000090005d2800a65b4",
+      "timestamp": "20260128235526",
+      "broadcastOffset": 6926,
+      "songDuration": 223,
+      "talkTimeOffset": 1574.0,
+      "refinedOffset": 1566.2,
+      "refinementDelta": 7.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 2542,
+      "cumulativeSongDuration": 4384,
+      "scriptMentions": [
+        {
+          "timestamp": 1560.0,
+          "matchType": "artist+title",
+          "matchedTerm": "자전거 탄 풍경+너에게 난 나에게 넌"
+        }
+      ]
+    }
+  ]
+}

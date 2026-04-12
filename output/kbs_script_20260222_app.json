@@ -1,0 +1,522 @@
+{
+  "date": "20260222",
+  "episode": "월간 작곡가",
+  "replayDuration": 1393,
+  "scaleFactor": 0.7469,
+  "totalSongDuration": 5247,
+  "expectedTalkDuration": 1865,
+  "insertionPoints": [
+    90.5,
+    236.9,
+    410.7,
+    561.6,
+    678.3,
+    781.0,
+    808.6,
+    853.3,
+    967.3,
+    1061.9,
+    1155.2,
+    1265.0,
+    1388.6
+  ],
+  "sentenceEndPoints": [
+    73.41,
+    86.02,
+    116.4,
+    167.84,
+    197.76,
+    221.02,
+    232.86,
+    251.23,
+    258.73,
+    272.94,
+    377.02,
+    389.52,
+    624.42,
+    638.82,
+    643.64,
+    776.97,
+    781.0,
+    808.64,
+    858.91,
+    1136.13,
+    1150.34,
+    1155.16,
+    1214.48,
+    1247.84,
+    1267.85,
+    1274.29,
+    1280.61,
+    1324.8,
+    1338.03,
+    1342.71
+  ],
+  "songs": [
+    {
+      "songTitle": "두 사람",
+      "artist": "성시경",
+      "musicId": "0000090005d280d523a2",
+      "timestamp": "20260222220148",
+      "broadcastOffset": 108,
+      "songDuration": 253,
+      "talkTimeOffset": 80.7,
+      "refinedOffset": 90.5,
+      "refinementDelta": 9.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 108,
+      "cumulativeSongDuration": 0,
+      "scriptMentions": [
+        {
+          "timestamp": 90.5,
+          "matchType": "artist+title",
+          "matchedTerm": "성시경+두 사람"
+        }
+      ]
+    },
+    {
+      "songTitle": "LOVING YOU",
+      "artist": "신승훈",
+      "musicId": "0000090005d280094a51",
+      "timestamp": "20260222221039",
+      "broadcastOffset": 639,
+      "songDuration": 271,
+      "talkTimeOffset": 288.3,
+      "refinedOffset": 236.9,
+      "refinementDelta": 51.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 386,
+      "cumulativeSongDuration": 253,
+      "scriptMentions": [
+        {
+          "timestamp": 236.9,
+          "matchType": "artist",
+          "matchedTerm": "신승훈"
+        }
+      ]
+    },
+    {
+      "songTitle": "WITH COFFEE",
+      "artist": "BROWN EYES",
+      "musicId": "20070703112725093643",
+      "timestamp": "20260222221506",
+      "broadcastOffset": 906,
+      "songDuration": 216,
+      "talkTimeOffset": 288.8,
+      "refinedOffset": 238.9,
+      "refinementDelta": 49.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 382,
+      "cumulativeSongDuration": 524,
+      "scriptMentions": [
+        {
+          "timestamp": 236.9,
+          "matchType": "artist+title",
+          "matchedTerm": "브라운 아이즈+위드 커피"
+        }
+      ]
+    },
+    {
+      "songTitle": "연애",
+      "artist": "김현철",
+      "musicId": "0000090005d28008f168",
+      "timestamp": "20260222222139",
+      "broadcastOffset": 1299,
+      "songDuration": 283,
+      "talkTimeOffset": 417.5,
+      "refinedOffset": 410.7,
+      "refinementDelta": 6.8,
+      "matchMethod": "name",
+      "talkTimeBefore": 559,
+      "cumulativeSongDuration": 740,
+      "scriptMentions": [
+        {
+          "timestamp": 406.0,
+          "matchType": "artist+title",
+          "matchedTerm": "김현철+연애"
+        }
+      ]
+    },
+    {
+      "songTitle": "MARRY ME",
+      "artist": "이현우",
+      "musicId": "0000090005d28009243c",
+      "timestamp": "20260222222500",
+      "broadcastOffset": 1500,
+      "songDuration": 252,
+      "talkTimeOffset": 418.0,
+      "refinedOffset": 412.7,
+      "refinementDelta": 5.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 477,
+      "cumulativeSongDuration": 1023,
+      "scriptMentions": [
+        {
+          "timestamp": 406.0,
+          "matchType": "artist",
+          "matchedTerm": "이현우"
+        }
+      ]
+    },
+    {
+      "songTitle": "너에게",
+      "artist": "포지션(POSITION)",
+      "musicId": "0000090005d280136f8f",
+      "timestamp": "20260222223154",
+      "broadcastOffset": 1914,
+      "songDuration": 257,
+      "talkTimeOffset": 477.3,
+      "refinedOffset": 561.6,
+      "refinementDelta": 84.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 639,
+      "cumulativeSongDuration": 1275,
+      "scriptMentions": [
+        {
+          "timestamp": 481.5,
+          "matchType": "artist",
+          "matchedTerm": "포지션"
+        },
+        {
+          "timestamp": 508.8,
+          "matchType": "artist",
+          "matchedTerm": "포지션"
+        },
+        {
+          "timestamp": 511.9,
+          "matchType": "artist",
+          "matchedTerm": "포지션"
+        },
+        {
+          "timestamp": 524.5,
+          "matchType": "artist+title",
+          "matchedTerm": "포지션+너에게"
+        },
+        {
+          "timestamp": 552.6,
+          "matchType": "artist",
+          "matchedTerm": "포지션"
+        },
+        {
+          "timestamp": 561.6,
+          "matchType": "artist+title",
+          "matchedTerm": "포지션+너에게"
+        },
+        {
+          "timestamp": 678.3,
+          "matchType": "title",
+          "matchedTerm": "너에게"
+        },
+        {
+          "timestamp": 1252.9,
+          "matchType": "title",
+          "matchedTerm": "너에게"
+        },
+        {
+          "timestamp": 1261.0,
+          "matchType": "title",
+          "matchedTerm": "너에게"
+        }
+      ]
+    },
+    {
+      "songTitle": "이제 그만 화풀어요",
+      "artist": "솔리드",
+      "musicId": "0000090005d2801367e0",
+      "timestamp": "20260222224230",
+      "broadcastOffset": 2550,
+      "songDuration": 263,
+      "talkTimeOffset": 760.4,
+      "refinedOffset": 678.3,
+      "refinementDelta": 82.0,
+      "matchMethod": "name",
+      "talkTimeBefore": 1018,
+      "cumulativeSongDuration": 1532,
+      "scriptMentions": [
+        {
+          "timestamp": 682.7,
+          "matchType": "artist+title",
+          "matchedTerm": "솔리드+이제 그만 화풀어요"
+        }
+      ]
+    },
+    {
+      "songTitle": "그랬나봐",
+      "artist": "김형중",
+      "musicId": "0000090005d28007fc56",
+      "timestamp": "20260222224812",
+      "broadcastOffset": 2892,
+      "songDuration": 271,
+      "talkTimeOffset": 819.4,
+      "refinedOffset": 819.4,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1097,
+      "cumulativeSongDuration": 1795
+    },
+    {
+      "songTitle": "구애",
+      "artist": "토이",
+      "musicId": "0000090005d280126488",
+      "timestamp": "20260222225436",
+      "broadcastOffset": 3276,
+      "songDuration": 261,
+      "talkTimeOffset": 903.8,
+      "refinedOffset": 853.3,
+      "refinementDelta": 50.5,
+      "matchMethod": "name",
+      "talkTimeBefore": 1210,
+      "cumulativeSongDuration": 2066,
+      "scriptMentions": [
+        {
+          "timestamp": 804.7,
+          "matchType": "artist+title",
+          "matchedTerm": "토이+구애"
+        }
+      ]
+    },
+    {
+      "songTitle": "다시 사랑한다 말할까",
+      "artist": "김동률",
+      "musicId": "20070327113349044470",
+      "timestamp": "20260222230121",
+      "broadcastOffset": 3681,
+      "songDuration": 288,
+      "talkTimeOffset": 1011.3,
+      "refinedOffset": 855.3,
+      "refinementDelta": 156.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1354,
+      "cumulativeSongDuration": 2327,
+      "scriptMentions": [
+        {
+          "timestamp": 849.5,
+          "matchType": "title",
+          "matchedTerm": "다시 사랑한다 말할까"
+        }
+      ]
+    },
+    {
+      "songTitle": "PLEASE",
+      "artist": "이기찬",
+      "musicId": "0000090005d2800a8fae",
+      "timestamp": "20260222230824",
+      "broadcastOffset": 4104,
+      "songDuration": 274,
+      "talkTimeOffset": 1112.2,
+      "refinedOffset": 967.3,
+      "refinementDelta": 144.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 1489,
+      "cumulativeSongDuration": 2615,
+      "scriptMentions": [
+        {
+          "timestamp": 967.3,
+          "matchType": "artist",
+          "matchedTerm": "이기찬"
+        }
+      ]
+    },
+    {
+      "songTitle": "난 얘기하고 넌 웃어주고",
+      "artist": "PULSE",
+      "musicId": "0000090005d2800b2cba",
+      "timestamp": "20260222231403",
+      "broadcastOffset": 4443,
+      "songDuration": 279,
+      "talkTimeOffset": 1160.7,
+      "refinedOffset": 1160.7,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1554,
+      "cumulativeSongDuration": 2889,
+      "scriptMentions": [
+        {
+          "timestamp": 1061.9,
+          "matchType": "title",
+          "matchedTerm": "난 얘기하고 넌 웃어주고"
+        }
+      ]
+    },
+    {
+      "songTitle": "연인",
+      "artist": "룰라",
+      "musicId": "0000090005d28013345c",
+      "timestamp": "20260222231844",
+      "broadcastOffset": 4724,
+      "songDuration": 230,
+      "talkTimeOffset": 1162.2,
+      "refinedOffset": 1061.9,
+      "refinementDelta": 100.3,
+      "matchMethod": "name",
+      "talkTimeBefore": 1556,
+      "cumulativeSongDuration": 3168,
+      "scriptMentions": [
+        {
+          "timestamp": 1061.9,
+          "matchType": "artist+title",
+          "matchedTerm": "룰라+연인"
+        }
+      ]
+    },
+    {
+      "songTitle": "옥탑방 (ROOFTOP)",
+      "artist": "N.FLYING",
+      "musicId": "20190528102125371018",
+      "timestamp": "20260222232429",
+      "broadcastOffset": 5069,
+      "songDuration": 212,
+      "talkTimeOffset": 1248.1,
+      "refinedOffset": 1155.2,
+      "refinementDelta": 92.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 1671,
+      "cumulativeSongDuration": 3398,
+      "scriptMentions": [
+        {
+          "timestamp": 1151.7,
+          "matchType": "title",
+          "matchedTerm": "옥탑방"
+        }
+      ]
+    },
+    {
+      "songTitle": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "IKON",
+      "musicId": "20180126094904058050",
+      "timestamp": "20260222232733",
+      "broadcastOffset": 5253,
+      "songDuration": 209,
+      "talkTimeOffset": 1248.6,
+      "refinedOffset": 1157.2,
+      "refinementDelta": 91.4,
+      "matchMethod": "name",
+      "talkTimeBefore": 1643,
+      "cumulativeSongDuration": 3610,
+      "scriptMentions": [
+        {
+          "timestamp": 1159.1,
+          "matchType": "artist+title",
+          "matchedTerm": "아이콘+사랑을 했다"
+        }
+      ]
+    },
+    {
+      "songTitle": "빛이 나는 너에게",
+      "artist": "던 (DAWN)",
+      "musicId": "20230410300006340712",
+      "timestamp": "20260222233123",
+      "broadcastOffset": 5483,
+      "songDuration": 175,
+      "talkTimeOffset": 1249.1,
+      "refinedOffset": 1249.1,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
+      "talkTimeBefore": 1664,
+      "cumulativeSongDuration": 3819
+    },
+    {
+      "songTitle": "오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)(FLAC)",
+      "artist": "마크툽 (MAKTUB)",
+      "musicId": "20230414300006384334",
+      "timestamp": "20260222233530",
+      "broadcastOffset": 5730,
+      "songDuration": 265,
+      "talkTimeOffset": 1296.6,
+      "refinedOffset": 1265.0,
+      "refinementDelta": 31.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1736,
+      "cumulativeSongDuration": 3994,
+      "scriptMentions": [
+        {
+          "timestamp": 1252.9,
+          "matchType": "artist+title",
+          "matchedTerm": "마크툽+오늘도 빛나는 너에게"
+        },
+        {
+          "timestamp": 1261.0,
+          "matchType": "artist+title",
+          "matchedTerm": "마크툽+오늘도 빛나는 너에게"
+        }
+      ]
+    },
+    {
+      "songTitle": "물어본다",
+      "artist": "이승환",
+      "musicId": "0000090005d280a9226e",
+      "timestamp": "20260222233950",
+      "broadcastOffset": 5990,
+      "songDuration": 273,
+      "talkTimeOffset": 1297.1,
+      "refinedOffset": 1267.0,
+      "refinementDelta": 30.1,
+      "matchMethod": "name",
+      "talkTimeBefore": 1731,
+      "cumulativeSongDuration": 4259,
+      "scriptMentions": [
+        {
+          "timestamp": 1265.0,
+          "matchType": "artist+title",
+          "matchedTerm": "이승환+물어본다"
+        }
+      ]
+    },
+    {
+      "songTitle": "말하는대로",
+      "artist": "유승우",
+      "musicId": "20130130155954930536",
+      "timestamp": "20260222234417",
+      "broadcastOffset": 6257,
+      "songDuration": 257,
+      "talkTimeOffset": 1297.6,
+      "refinedOffset": 1269.0,
+      "refinementDelta": 28.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 1725,
+      "cumulativeSongDuration": 4532,
+      "scriptMentions": [
+        {
+          "timestamp": 1257.5,
+          "matchType": "artist+title",
+          "matchedTerm": "유승우+말하는대로"
+        }
+      ]
+    },
+    {
+      "songTitle": "수고했어, 오늘도",
+      "artist": "옥상달빛",
+      "musicId": "20110502144935462127",
+      "timestamp": "20260222235014",
+      "broadcastOffset": 6614,
+      "songDuration": 179,
+      "talkTimeOffset": 1363.1,
+      "refinedOffset": 1388,
+      "refinementDelta": 24.9,
+      "matchMethod": "name",
+      "talkTimeBefore": 1825,
+      "cumulativeSongDuration": 4789,
+      "scriptMentions": [
+        {
+          "timestamp": 1351.6,
+          "matchType": "artist+title",
+          "matchedTerm": "옥상달빛+수고했어 오늘도"
+        }
+      ]
+    },
+    {
+      "songTitle": "흰수염고래",
+      "artist": "윤도현밴드",
+      "musicId": "20111129153425738038",
+      "timestamp": "20260222235353",
+      "broadcastOffset": 6833,
+      "songDuration": 279,
+      "talkTimeOffset": 1393.0,
+      "refinedOffset": -1,
+      "refinementDelta": null,
+      "matchMethod": "post_replay",
+      "talkTimeBefore": 1865,
+      "cumulativeSongDuration": 4968
+    }
+  ]
+}
