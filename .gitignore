@@ -1,0 +1,5 @@
+scripts/
+slurm/
+docs/
+.DS_Store
+.omc/
