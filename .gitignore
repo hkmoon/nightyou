@@ -3,3 +3,8 @@ slurm/
 docs/
 .DS_Store
 .omc/
+.claude/
+output/*.json
+output/*.srt
+output/*.txt
+!output/*_app.json
