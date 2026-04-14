@@ -4,6 +4,7 @@ docs/
 .DS_Store
 .omc/
 .claude/
+output_korok/
 output/*.json
 output/*.srt
 output/*.txt
