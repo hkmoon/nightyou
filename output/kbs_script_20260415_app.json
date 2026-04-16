@@ -2,15 +2,22 @@
   "date": "20260415",
   "episode": "생각이 켜진 밤",
   "replayDuration": 1764,
-  "scaleFactor": 0.8205,
-  "totalSongDuration": 4989,
-  "expectedTalkDuration": 2150,
+  "scaleFactor": 0.8025,
+  "totalSongDuration": 4941,
+  "expectedTalkDuration": 2198,
   "insertionPoints": [
     86.4,
-    198.7,
+    190.4,
     352.5,
+    616.0,
     797.7,
+    987.3,
     1296.1,
+    1419.8,
+    1450.6,
+    1510.0,
+    1547.3,
+    1623.6,
     1663.3,
     1674.1,
     1686.9,
@@ -68,9 +75,9 @@
       "timestamp": "20260415220150",
       "broadcastOffset": 110,
       "songDuration": 275,
-      "talkTimeOffset": 90.3,
+      "talkTimeOffset": 88.3,
       "refinedOffset": 86.4,
-      "refinementDelta": 3.9,
+      "refinementDelta": 1.9,
       "matchMethod": "name",
       "talkTimeBefore": 110,
       "cumulativeSongDuration": 0,
@@ -89,10 +96,10 @@
       "timestamp": "20260415220935",
       "broadcastOffset": 575,
       "songDuration": 183,
-      "talkTimeOffset": 246.1,
-      "refinedOffset": 198.7,
-      "refinementDelta": 47.5,
-      "matchMethod": "name",
+      "talkTimeOffset": 240.8,
+      "refinedOffset": 190.4,
+      "refinementDelta": 50.3,
+      "matchMethod": "review_pair",
       "talkTimeBefore": 300,
       "cumulativeSongDuration": 275,
       "scriptMentions": [
@@ -110,12 +117,19 @@
       "timestamp": "20260415221304",
       "broadcastOffset": 784,
       "songDuration": 230,
-      "talkTimeOffset": 267.5,
-      "refinedOffset": 267.5,
-      "refinementDelta": 0,
-      "matchMethod": "talk_time",
+      "talkTimeOffset": 261.6,
+      "refinedOffset": 190.4,
+      "refinementDelta": 71.2,
+      "matchMethod": "name",
       "talkTimeBefore": 326,
-      "cumulativeSongDuration": 458
+      "cumulativeSongDuration": 458,
+      "scriptMentions": [
+        {
+          "timestamp": 195.8,
+          "matchType": "artist+title",
+          "matchedTerm": "러브홀릭스+버터플라이"
+        }
+      ]
     },
     {
       "songTitle": "I'LL BE THERE",
@@ -124,10 +138,10 @@
       "timestamp": "20260415222304",
       "broadcastOffset": 1384,
       "songDuration": 253,
-      "talkTimeOffset": 571.0,
-      "refinedOffset": 571.0,
-      "refinementDelta": 0,
-      "matchMethod": "talk_time",
+      "talkTimeOffset": 558.6,
+      "refinedOffset": 192.4,
+      "refinementDelta": 368.1,
+      "matchMethod": "review_pair",
       "talkTimeBefore": 696,
       "cumulativeSongDuration": 688,
       "scriptMentions": [
@@ -145,12 +159,29 @@
       "timestamp": "20260415222656",
       "broadcastOffset": 1616,
       "songDuration": 231,
-      "talkTimeOffset": 571.5,
-      "refinedOffset": 573.0,
+      "talkTimeOffset": 559.1,
+      "refinedOffset": 559.1,
       "refinementDelta": 0,
       "matchMethod": "talk_time",
       "talkTimeBefore": 675,
-      "cumulativeSongDuration": 941
+      "cumulativeSongDuration": 941,
+      "scriptMentions": [
+        {
+          "timestamp": 142.8,
+          "matchType": "title",
+          "matchedTerm": "오늘 밤은"
+        },
+        {
+          "timestamp": 160.8,
+          "matchType": "title",
+          "matchedTerm": "오늘 밤은"
+        },
+        {
+          "timestamp": 1760.6,
+          "matchType": "title",
+          "matchedTerm": "오늘 밤은"
+        }
+      ]
     },
     {
       "songTitle": "조금씩 천천히 너에게",
@@ -159,12 +190,19 @@
       "timestamp": "20260415223116",
       "broadcastOffset": 1876,
       "songDuration": 253,
-      "talkTimeOffset": 577.6,
-      "refinedOffset": 577.6,
-      "refinementDelta": 0,
-      "matchMethod": "talk_time",
+      "talkTimeOffset": 565.0,
+      "refinedOffset": 616.0,
+      "refinementDelta": 51.0,
+      "matchMethod": "name",
       "talkTimeBefore": 704,
-      "cumulativeSongDuration": 1172
+      "cumulativeSongDuration": 1172,
+      "scriptMentions": [
+        {
+          "timestamp": 616.0,
+          "matchType": "artist+title",
+          "matchedTerm": "노리플라이+조금씩 천천히 너에게"
+        }
+      ]
     },
     {
       "songTitle": "우리의 밤은 당신의 낮보다 아름답다",
@@ -173,10 +211,10 @@
       "timestamp": "20260415223846",
       "broadcastOffset": 2326,
       "songDuration": 221,
-      "talkTimeOffset": 739.2,
-      "refinedOffset": 797.7,
-      "refinementDelta": 58.5,
-      "matchMethod": "name",
+      "talkTimeOffset": 723.1,
+      "refinedOffset": 618.0,
+      "refinementDelta": 107.1,
+      "matchMethod": "review_pair",
       "talkTimeBefore": 901,
       "cumulativeSongDuration": 1425,
       "scriptMentions": [
@@ -199,17 +237,147 @@
       "timestamp": "20260415224153",
       "broadcastOffset": 2513,
       "songDuration": 264,
-      "talkTimeOffset": 739.7,
-      "refinedOffset": 799.7,
-      "refinementDelta": 60.0,
+      "talkTimeOffset": 723.6,
+      "refinedOffset": 618.0,
+      "refinementDelta": 105.6,
       "matchMethod": "name",
       "talkTimeBefore": 867,
       "cumulativeSongDuration": 1646,
       "scriptMentions": [
         {
+          "timestamp": 82.3,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 86.4,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 136.3,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 160.8,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 175.4,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 191.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 204.3,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 219.6,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 361.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 365.2,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 630.1,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 715.2,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 735.6,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
           "timestamp": 794.5,
           "matchType": "artist+title",
           "matchedTerm": "브라운 아이드 소울+그대"
+        },
+        {
+          "timestamp": 805.4,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 835.1,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1211.8,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1216.0,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1242.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1289.9,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1296.1,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1318.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1331.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1334.2,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1551.7,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1744.5,
+          "matchType": "title",
+          "matchedTerm": "그대"
+        },
+        {
+          "timestamp": 1746.9,
+          "matchType": "title",
+          "matchedTerm": "그대"
         }
       ]
     },
@@ -220,13 +388,18 @@
       "timestamp": "20260415225504",
       "broadcastOffset": 3304,
       "songDuration": 251,
-      "talkTimeOffset": 1143.7,
+      "talkTimeOffset": 1118.8,
       "refinedOffset": 1296.1,
-      "refinementDelta": 152.4,
+      "refinementDelta": 177.3,
       "matchMethod": "name",
       "talkTimeBefore": 1394,
       "cumulativeSongDuration": 1910,
       "scriptMentions": [
+        {
+          "timestamp": 126.4,
+          "matchType": "title",
+          "matchedTerm": "언젠가는"
+        },
         {
           "timestamp": 1247.9,
           "matchType": "artist+title",
@@ -241,9 +414,9 @@
       "timestamp": "20260415230101",
       "broadcastOffset": 3661,
       "songDuration": 272,
-      "talkTimeOffset": 1230.7,
+      "talkTimeOffset": 1203.8,
       "refinedOffset": 1298.1,
-      "refinementDelta": 67.4,
+      "refinementDelta": 94.3,
       "matchMethod": "name",
       "talkTimeBefore": 1500,
       "cumulativeSongDuration": 2161,
@@ -262,10 +435,10 @@
       "timestamp": "20260415230925",
       "broadcastOffset": 4165,
       "songDuration": 233,
-      "talkTimeOffset": 1421.0,
-      "refinedOffset": 1605.5,
-      "refinementDelta": 184.5,
-      "matchMethod": "review_gap",
+      "talkTimeOffset": 1390.0,
+      "refinedOffset": 1510.0,
+      "refinementDelta": 120.0,
+      "matchMethod": "name",
       "talkTimeBefore": 1732,
       "cumulativeSongDuration": 2433,
       "scriptMentions": [
@@ -298,9 +471,9 @@
       "timestamp": "20260415231249",
       "broadcastOffset": 4369,
       "songDuration": 249,
-      "talkTimeOffset": 1421.5,
+      "talkTimeOffset": 1390.5,
       "refinedOffset": 1607.5,
-      "refinementDelta": 186.0,
+      "refinementDelta": 217.0,
       "matchMethod": "review_gap",
       "talkTimeBefore": 1703,
       "cumulativeSongDuration": 2666
@@ -312,9 +485,9 @@
       "timestamp": "20260415231716",
       "broadcastOffset": 4636,
       "songDuration": 222,
-      "talkTimeOffset": 1422.0,
+      "talkTimeOffset": 1391.0,
       "refinedOffset": 1609.5,
-      "refinementDelta": 187.5,
+      "refinementDelta": 218.5,
       "matchMethod": "review_gap",
       "talkTimeBefore": 1721,
       "cumulativeSongDuration": 2915
@@ -326,9 +499,9 @@
       "timestamp": "20260415232204",
       "broadcastOffset": 4924,
       "songDuration": 210,
-      "talkTimeOffset": 1466.2,
+      "talkTimeOffset": 1434.2,
       "refinedOffset": 1510.0,
-      "refinementDelta": 43.8,
+      "refinementDelta": 75.8,
       "matchMethod": "review_gap",
       "talkTimeBefore": 1787,
       "cumulativeSongDuration": 3137
@@ -340,9 +513,9 @@
       "timestamp": "20260415232531",
       "broadcastOffset": 5131,
       "songDuration": 265,
-      "talkTimeOffset": 1466.7,
+      "talkTimeOffset": 1434.7,
       "refinedOffset": 1512.0,
-      "refinementDelta": 45.3,
+      "refinementDelta": 77.3,
       "matchMethod": "review_gap",
       "talkTimeBefore": 1784,
       "cumulativeSongDuration": 3347
@@ -354,26 +527,12 @@
       "timestamp": "20260415233013",
       "broadcastOffset": 5413,
       "songDuration": 196,
-      "talkTimeOffset": 1477.7,
+      "talkTimeOffset": 1445.4,
       "refinedOffset": 1514.0,
-      "refinementDelta": 36.3,
+      "refinementDelta": 68.6,
       "matchMethod": "review_gap",
       "talkTimeBefore": 1801,
       "cumulativeSongDuration": 3612
-    },
-    {
-      "songTitle": "LOVE IS...",
-      "artist": "",
-      "musicId": "20060609161042441722",
-      "timestamp": "20260415233307",
-      "broadcastOffset": 5587,
-      "songDuration": 48,
-      "talkTimeOffset": 1478.2,
-      "refinedOffset": 1516.0,
-      "refinementDelta": 0,
-      "matchMethod": "talk_time",
-      "talkTimeBefore": 1779,
-      "cumulativeSongDuration": 3808
     },
     {
       "songTitle": "위로의 말은 누가 해주나요",
@@ -382,12 +541,12 @@
       "timestamp": "20260415233440",
       "broadcastOffset": 5680,
       "songDuration": 305,
-      "talkTimeOffset": 1496.5,
-      "refinedOffset": 1644.4,
-      "refinementDelta": 147.8,
+      "talkTimeOffset": 1502.4,
+      "refinedOffset": 1646.4,
+      "refinementDelta": 144.0,
       "matchMethod": "review_gap",
-      "talkTimeBefore": 1824,
-      "cumulativeSongDuration": 3856
+      "talkTimeBefore": 1872,
+      "cumulativeSongDuration": 3808
     },
     {
       "songTitle": "TO YOU ; 그대에게",
@@ -396,12 +555,12 @@
       "timestamp": "20260415234304",
       "broadcastOffset": 6184,
       "songDuration": 213,
-      "talkTimeOffset": 1659.8,
-      "refinedOffset": 1659.8,
-      "refinementDelta": 0,
-      "matchMethod": "talk_time",
-      "talkTimeBefore": 2023,
-      "cumulativeSongDuration": 4161
+      "talkTimeOffset": 1662.1,
+      "refinedOffset": 1648.4,
+      "refinementDelta": 13.7,
+      "matchMethod": "review_gap",
+      "talkTimeBefore": 2071,
+      "cumulativeSongDuration": 4113
     },
     {
       "songTitle": "사랑한 후에;AFTER LOVING YOU",
@@ -410,12 +569,12 @@
       "timestamp": "20260415234700",
       "broadcastOffset": 6420,
       "songDuration": 218,
-      "talkTimeOffset": 1678.7,
-      "refinedOffset": 1646.4,
-      "refinementDelta": 32.3,
+      "talkTimeOffset": 1680.5,
+      "refinedOffset": 1650.4,
+      "refinementDelta": 30.2,
       "matchMethod": "review_gap",
-      "talkTimeBefore": 2046,
-      "cumulativeSongDuration": 4374
+      "talkTimeBefore": 2094,
+      "cumulativeSongDuration": 4326
     },
     {
       "songTitle": "사랑한 후에",
@@ -425,11 +584,18 @@
       "broadcastOffset": 6742,
       "songDuration": 397,
       "talkTimeOffset": 1764.0,
-      "refinedOffset": -1,
-      "refinementDelta": null,
-      "matchMethod": "post_replay",
-      "talkTimeBefore": 2150,
-      "cumulativeSongDuration": 4592
+      "refinedOffset": 1756.4,
+      "refinementDelta": 7.6,
+      "matchMethod": "name",
+      "talkTimeBefore": 2198,
+      "cumulativeSongDuration": 4544,
+      "scriptMentions": [
+        {
+          "timestamp": 1752.8,
+          "matchType": "title",
+          "matchedTerm": "사랑한 후에"
+        }
+      ]
     }
   ]
 }
