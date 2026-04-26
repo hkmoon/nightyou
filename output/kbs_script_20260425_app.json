@@ -9,11 +9,11 @@
     114.2,
     264.6,
     424.9,
-    694.6,
+    685.5,
     792.6,
     895.5,
     935.5,
-    984.9,
+    986.9,
     1074.4,
     1181.9,
     1276.2,
@@ -24,9 +24,8 @@
     18.61,
     31.28,
     47.32,
-    52.2,
-    84.06,
-    105.49,
+    84.08,
+    105.53,
     109.52,
     121.73,
     127.31,
@@ -37,30 +36,23 @@
     209.04,
     236.27,
     262.34,
-    375.0,
-    606.39,
-    615.73,
-    632.14,
-    639.96,
-    646.62,
-    658.54,
-    685.51,
-    701.48,
-    730.56,
-    750.01,
-    758.61,
-    773.5,
+    586.11,
+    591.76,
+    598.31,
+    615.75,
+    639.98,
+    646.64,
+    650.86,
+    701.52,
+    722.14,
+    938.35,
+    988.18,
     1007.92,
-    1021.28,
-    1031.7,
-    1035.52,
+    1135.92,
     1215.04,
-    1276.19,
-    1285.8,
-    1292.15,
-    1404.84,
-    1408.06,
-    1417.0
+    1308.76,
+    1310.92,
+    1322.72
   ],
   "songs": [
     {
@@ -162,7 +154,7 @@
       "cumulativeSongDuration": 904,
       "scriptMentions": [
         {
-          "timestamp": 420.6,
+          "timestamp": 418.3,
           "matchType": "artist+title",
           "matchedTerm": "휘성+사랑은 맛있다"
         }
@@ -176,14 +168,14 @@
       "broadcastOffset": 2001,
       "songDuration": 250,
       "talkTimeOffset": 519.7,
-      "refinedOffset": 694.6,
-      "refinementDelta": 174.9,
+      "refinedOffset": 685.5,
+      "refinementDelta": 165.8,
       "matchMethod": "name",
       "talkTimeBefore": 865,
       "cumulativeSongDuration": 1136,
       "scriptMentions": [
         {
-          "timestamp": 694.6,
+          "timestamp": 685.5,
           "matchType": "artist+title",
           "matchedTerm": "부가킹즈+여행길"
         }
@@ -204,12 +196,12 @@
       "cumulativeSongDuration": 1386,
       "scriptMentions": [
         {
-          "timestamp": 752.9,
+          "timestamp": 750.0,
           "matchType": "title",
           "matchedTerm": "다시 태어나도"
         },
         {
-          "timestamp": 787.8,
+          "timestamp": 787.7,
           "matchType": "artist+title",
           "matchedTerm": "에스더+다시 태어나도"
         },
@@ -280,8 +272,8 @@
       "broadcastOffset": 3266,
       "songDuration": 285,
       "talkTimeOffset": 701.2,
-      "refinedOffset": 984.9,
-      "refinementDelta": 283.7,
+      "refinedOffset": 936.0,
+      "refinementDelta": 234.8,
       "matchMethod": "name",
       "talkTimeBefore": 1167,
       "cumulativeSongDuration": 2099,
@@ -329,7 +321,7 @@
       "cumulativeSongDuration": 2552,
       "scriptMentions": [
         {
-          "timestamp": 1175.1,
+          "timestamp": 1175.0,
           "matchType": "artist",
           "matchedTerm": "데이식스"
         },
@@ -348,19 +340,19 @@
       "broadcastOffset": 4805,
       "songDuration": 273,
       "talkTimeOffset": 1240.1,
-      "refinedOffset": 1281.6,
-      "refinementDelta": 41.5,
+      "refinedOffset": 1282.8,
+      "refinementDelta": 42.7,
       "matchMethod": "name",
       "talkTimeBefore": 2064,
       "cumulativeSongDuration": 2741,
       "scriptMentions": [
         {
-          "timestamp": 1271.4,
+          "timestamp": 1271.5,
           "matchType": "title",
           "matchedTerm": "영원"
         },
         {
-          "timestamp": 1281.6,
+          "timestamp": 1280.0,
           "matchType": "title",
           "matchedTerm": "영원"
         }
@@ -374,19 +366,19 @@
       "broadcastOffset": 5078,
       "songDuration": 276,
       "talkTimeOffset": 1240.1,
-      "refinedOffset": 1282.1,
-      "refinementDelta": 42.0,
+      "refinedOffset": 1283.3,
+      "refinementDelta": 43.2,
       "matchMethod": "name",
       "talkTimeBefore": 2064,
       "cumulativeSongDuration": 3014,
       "scriptMentions": [
         {
-          "timestamp": 1271.4,
+          "timestamp": 1272.8,
           "matchType": "artist+title",
           "matchedTerm": "김정민+슬픈 언약식"
         },
         {
-          "timestamp": 1281.6,
+          "timestamp": 1282.8,
           "matchType": "artist+title",
           "matchedTerm": "김정민+슬픈 언약식"
         }
@@ -400,18 +392,11 @@
       "broadcastOffset": 5357,
       "songDuration": 242,
       "talkTimeOffset": 1241.9,
-      "refinedOffset": 1276.2,
-      "refinementDelta": 34.3,
-      "matchMethod": "name",
+      "refinedOffset": 1283.8,
+      "refinementDelta": 0,
+      "matchMethod": "talk_time",
       "talkTimeBefore": 2067,
-      "cumulativeSongDuration": 3290,
-      "scriptMentions": [
-        {
-          "timestamp": 1278.3,
-          "matchType": "title",
-          "matchedTerm": "애련"
-        }
-      ]
+      "cumulativeSongDuration": 3290
     },
     {
       "songTitle": "I LOVE YOU",
@@ -422,7 +407,7 @@
       "songDuration": 185,
       "talkTimeOffset": 1294.8,
       "refinedOffset": 1374.3,
-      "refinementDelta": 79.6,
+      "refinementDelta": 79.5,
       "matchMethod": "name",
       "talkTimeBefore": 2155,
       "cumulativeSongDuration": 3532,
@@ -448,7 +433,7 @@
       "songDuration": 244,
       "talkTimeOffset": 1295.3,
       "refinedOffset": 1374.8,
-      "refinementDelta": 79.6,
+      "refinementDelta": 79.5,
       "matchMethod": "name",
       "talkTimeBefore": 2123,
       "cumulativeSongDuration": 3717,
@@ -496,7 +481,7 @@
       "cumulativeSongDuration": 4244,
       "scriptMentions": [
         {
-          "timestamp": 1418.5,
+          "timestamp": 1399.1,
           "matchType": "artist+title",
           "matchedTerm": "권진원+집으로 가는 길"
         }
